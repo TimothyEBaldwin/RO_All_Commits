@@ -477,3 +477,24 @@
 [submodule "RiscOS/Apps/PlingEraseCVS"]
 	path = RiscOS/Apps/!EraseCVS
 	url = ../../RiscOS/Apps/PlingEraseCVS.git
+[submodule "RiscOS/Sources/HWSupport/FPASCBlob"]
+	path = RiscOS/Sources/HWSupport/FPASCBlob
+	url = ../../RiscOS/Sources/HWSupport/FPASCBlob.git
+[submodule "RiscOS/Sources/Networking/AUN/Access/ShareFSBlob"]
+	path = RiscOS/Sources/Networking/AUN/Access/ShareFSBlob
+	url = ../../RiscOS/Sources/Networking/AUN/Access/ShareFSBlob.git
+[submodule "RiscOS/Sources/Networking/AUN/MManagerBlob"]
+	path = RiscOS/Sources/Networking/AUN/MManagerBlob
+	url = ../../RiscOS/Sources/Networking/AUN/MManagerBlob.git
+[submodule "RiscOS/Sources/Networking/MimeMapBlob"]
+	path = RiscOS/Sources/Networking/MimeMapBlob
+	url = ../../RiscOS/Sources/Networking/MimeMapBlob.git
+[submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS"]
+	path = RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS
+	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS.git
+[submodule "RiscOS/Sources/Networking/ResolverBlob"]
+	path = RiscOS/Sources/Networking/ResolverBlob
+	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
+[submodule "RiscOS/Sources/Programmer/SquashBlob"]
+	path = RiscOS/Sources/Programmer/SquashBlob
+	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
