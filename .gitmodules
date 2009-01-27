@@ -1,0 +1,164 @@
+[submodule "RiscOS/Apps/PlingBuilder"]
+	path = RiscOS/Apps/!Builder
+	url = ../../RiscOS/Apps/PlingBuilder.git
+[submodule "RiscOS/Apps/PlingEraseCVS"]
+	path = RiscOS/Apps/!EraseCVS
+	url = ../../RiscOS/Apps/PlingEraseCVS.git
+[submodule "RiscOS/Apps/PlingWinEdit"]
+	path = RiscOS/Apps/!WinEdit
+	url = ../../RiscOS/Apps/PlingWinEdit.git
+[submodule "RiscOS/Apps/AppsMakefile"]
+	path = RiscOS/Apps/AppsMakefile
+	url = ../../RiscOS/Apps/AppsMakefile.git
+[submodule "RiscOS/BuildSys"]
+	path = RiscOS/BuildSys
+	url = ../../RiscOS/BuildSys.git
+[submodule "RiscOS/Env"]
+	path = RiscOS/Env
+	url = ../../RiscOS/Env.git
+[submodule "RiscOS/Export"]
+	path = RiscOS/Export
+	url = ../../RiscOS/Export.git
+[submodule "RiscOS/Sources/Desktop/TaskWindow"]
+	path = RiscOS/Sources/Desktop/TaskWindow
+	url = ../../RiscOS/Sources/Desktop/TaskWindow.git
+[submodule "RiscOS/Sources/Desktop/Wimp"]
+	path = RiscOS/Sources/Desktop/Wimp
+	url = ../../RiscOS/Sources/Desktop/Wimp.git
+[submodule "RiscOS/Sources/FileSys/FileSwitch"]
+	path = RiscOS/Sources/FileSys/FileSwitch
+	url = ../../RiscOS/Sources/FileSys/FileSwitch.git
+[submodule "RiscOS/Sources/FileSys/PCCardFS/PCCardFS"]
+	path = RiscOS/Sources/FileSys/PCCardFS/PCCardFS
+	url = ../../RiscOS/Sources/FileSys/PCCardFS/PCCardFS.git
+[submodule "RiscOS/Sources/FileSys/ResourceFS/ResourceFS"]
+	path = RiscOS/Sources/FileSys/ResourceFS/ResourceFS
+	url = ../../RiscOS/Sources/FileSys/ResourceFS/ResourceFS.git
+[submodule "RiscOS/Sources/FileSys/SCSIFS/SCSIFS"]
+	path = RiscOS/Sources/FileSys/SCSIFS/SCSIFS
+	url = ../../RiscOS/Sources/FileSys/SCSIFS/SCSIFS.git
+[submodule "RiscOS/Sources/HAL/HAL_OMAP3"]
+	path = RiscOS/Sources/HAL/HAL_OMAP3
+	url = ../../RiscOS/Sources/HAL/HAL_OMAP3.git
+[submodule "RiscOS/Sources/HWSupport/Buffers"]
+	path = RiscOS/Sources/HWSupport/Buffers
+	url = ../../RiscOS/Sources/HWSupport/Buffers.git
+[submodule "RiscOS/Sources/HWSupport/NVRAM"]
+	path = RiscOS/Sources/HWSupport/NVRAM
+	url = ../../RiscOS/Sources/HWSupport/NVRAM.git
+[submodule "RiscOS/Sources/HWSupport/Podule"]
+	path = RiscOS/Sources/HWSupport/Podule
+	url = ../../RiscOS/Sources/HWSupport/Podule.git
+[submodule "RiscOS/Sources/HWSupport/PortMan"]
+	path = RiscOS/Sources/HWSupport/PortMan
+	url = ../../RiscOS/Sources/HWSupport/PortMan.git
+[submodule "RiscOS/Sources/HWSupport/Portable"]
+	path = RiscOS/Sources/HWSupport/Portable
+	url = ../../RiscOS/Sources/HWSupport/Portable.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSIDriver"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSIDriver
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSIDriver.git
+[submodule "RiscOS/Sources/HWSupport/Serial"]
+	path = RiscOS/Sources/HWSupport/Serial
+	url = ../../RiscOS/Sources/HWSupport/Serial.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Sound0Trid"]
+	path = RiscOS/Sources/HWSupport/Sound/Sound0Trid
+	url = ../../RiscOS/Sources/HWSupport/Sound/Sound0Trid.git
+[submodule "RiscOS/Sources/Internat/Messages"]
+	path = RiscOS/Sources/Internat/Messages
+	url = ../../RiscOS/Sources/Internat/Messages.git
+[submodule "RiscOS/Sources/Internat/MsgTrans"]
+	path = RiscOS/Sources/Internat/MsgTrans
+	url = ../../RiscOS/Sources/Internat/MsgTrans.git
+[submodule "RiscOS/Sources/Internat/Territory/TerritoryManager"]
+	path = RiscOS/Sources/Internat/Territory/TerritoryManager
+	url = ../../RiscOS/Sources/Internat/Territory/TerritoryManager.git
+[submodule "RiscOS/Sources/Kernel"]
+	path = RiscOS/Sources/Kernel
+	url = ../../RiscOS/Sources/Kernel.git
+	branch = HAL
+[submodule "RiscOS/Sources/Lib/AsmUtils"]
+	path = RiscOS/Sources/Lib/AsmUtils
+	url = ../../RiscOS/Sources/Lib/AsmUtils.git
+[submodule "RiscOS/Sources/Lib/DebugLib"]
+	path = RiscOS/Sources/Lib/DebugLib
+	url = ../../RiscOS/Sources/Lib/DebugLib.git
+[submodule "RiscOS/Sources/Lib/ModMalloc"]
+	path = RiscOS/Sources/Lib/ModMalloc
+	url = ../../RiscOS/Sources/Lib/ModMalloc.git
+[submodule "RiscOS/Sources/Lib/PDebug"]
+	path = RiscOS/Sources/Lib/PDebug
+	url = ../../RiscOS/Sources/Lib/PDebug.git
+[submodule "RiscOS/Sources/Lib/PlainArgv"]
+	path = RiscOS/Sources/Lib/PlainArgv
+	url = ../../RiscOS/Sources/Lib/PlainArgv.git
+[submodule "RiscOS/Sources/Lib/RISC_OSLib"]
+	path = RiscOS/Sources/Lib/RISC_OSLib
+	url = ../../RiscOS/Sources/Lib/RISC_OSLib.git
+[submodule "RiscOS/Sources/Lib/UnicodeLib"]
+	path = RiscOS/Sources/Lib/UnicodeLib
+	url = ../../RiscOS/Sources/Lib/UnicodeLib.git
+[submodule "RiscOS/Sources/Lib/callx"]
+	path = RiscOS/Sources/Lib/callx
+	url = ../../RiscOS/Sources/Lib/callx.git
+[submodule "RiscOS/Sources/Lib/remotedb"]
+	path = RiscOS/Sources/Lib/remotedb
+	url = ../../RiscOS/Sources/Lib/remotedb.git
+[submodule "RiscOS/Sources/Networking/Econet"]
+	path = RiscOS/Sources/Networking/Econet
+	url = ../../RiscOS/Sources/Networking/Econet.git
+[submodule "RiscOS/Sources/Printing/Modules/MakePSFont"]
+	path = RiscOS/Sources/Printing/Modules/MakePSFont
+	url = ../../RiscOS/Sources/Printing/Modules/MakePSFont.git
+[submodule "RiscOS/Sources/Printing/Modules/PDriver"]
+	path = RiscOS/Sources/Printing/Modules/PDriver
+	url = ../../RiscOS/Sources/Printing/Modules/PDriver.git
+[submodule "RiscOS/Sources/Printing/PDumpers"]
+	path = RiscOS/Sources/Printing/PDumpers
+	url = ../../RiscOS/Sources/Printing/PDumpers.git
+[submodule "RiscOS/Sources/Programmer/DDEUtils"]
+	path = RiscOS/Sources/Programmer/DDEUtils
+	url = ../../RiscOS/Sources/Programmer/DDEUtils.git
+[submodule "RiscOS/Sources/Programmer/DDTHdr"]
+	path = RiscOS/Sources/Programmer/DDTHdr
+	url = ../../RiscOS/Sources/Programmer/DDTHdr.git
+[submodule "RiscOS/Sources/Programmer/HdrSrc"]
+	path = RiscOS/Sources/Programmer/HdrSrc
+	url = ../../RiscOS/Sources/Programmer/HdrSrc.git
+[submodule "RiscOS/Sources/Programmer/HostFS"]
+	path = RiscOS/Sources/Programmer/HostFS
+	url = ../../RiscOS/Sources/Programmer/HostFS.git
+	branch = HAL
+[submodule "RiscOS/Sources/Video/Render/Colours"]
+	path = RiscOS/Sources/Video/Render/Colours
+	url = ../../RiscOS/Sources/Video/Render/Colours.git
+[submodule "RiscOS/Sources/Video/Render/Fonts/FontManager"]
+	path = RiscOS/Sources/Video/Render/Fonts/FontManager
+	url = ../../RiscOS/Sources/Video/Render/Fonts/FontManager.git
+[submodule "RiscOS/Apps/PlingPerl"]
+	path = RiscOS/Apps/!Perl
+	url = ../../RiscOS/Apps/PlingPerl.git
+[submodule "RiscOS/Sources/Lib/DDTLib"]
+	path = RiscOS/Sources/Lib/DDTLib
+	url = ../../RiscOS/Sources/Lib/DDTLib.git
+[submodule "RiscOS/Sources/Lib/Trace"]
+	path = RiscOS/Sources/Lib/Trace
+	url = ../../RiscOS/Sources/Lib/Trace.git
+[submodule "RiscOS/Sources/Lib/Wild"]
+	path = RiscOS/Sources/Lib/Wild
+	url = ../../RiscOS/Sources/Lib/Wild.git
+[submodule "RiscOS/Library"]
+	path = RiscOS/Library
+	url = ../../RiscOS/Library.git
+[submodule "RiscOS/Modules"]
+	path = RiscOS/Modules
+	url = ../../RiscOS/Modules.git
+[submodule "RiscOS/Sources/Lib/TCPIPLibs"]
+	path = RiscOS/Sources/Lib/TCPIPLibs
+	url = ../../RiscOS/Sources/Lib/TCPIPLibs.git
+[submodule "RiscOS/Sources/Lib/Desk"]
+	path = RiscOS/Sources/Lib/Desk
+	url = ../../RiscOS/Sources/Lib/Desk.git
+[submodule "RiscOS/Sources/Lib/OSLib"]
+	path = RiscOS/Sources/Lib/OSLib
+	url = ../../RiscOS/Sources/Lib/OSLib.git
