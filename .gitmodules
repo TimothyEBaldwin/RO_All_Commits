@@ -421,3 +421,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/FileSys/ADFS/ADFS"]
+	path = RiscOS/Sources/FileSys/ADFS/ADFS
+	url = ../../RiscOS/Sources/FileSys/ADFS/ADFS.git
