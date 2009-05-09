@@ -163,3 +163,261 @@
 [submodule "RiscOS/Sources/Lib/OSLib"]
 	path = RiscOS/Sources/Lib/OSLib
 	url = ../../RiscOS/Sources/Lib/OSLib.git
+[submodule "RiscOS/Sources/Apps/Alarm"]
+	path = RiscOS/Sources/Apps/Alarm
+	url = ../../RiscOS/Sources/Apps/Alarm.git
+[submodule "RiscOS/Sources/Apps/Chars"]
+	path = RiscOS/Sources/Apps/Chars
+	url = ../../RiscOS/Sources/Apps/Chars.git
+[submodule "RiscOS/Sources/Apps/Draw"]
+	path = RiscOS/Sources/Apps/Draw
+	url = ../../RiscOS/Sources/Apps/Draw.git
+[submodule "RiscOS/Sources/Apps/EditApp"]
+	path = RiscOS/Sources/Apps/EditApp
+	url = ../../RiscOS/Sources/Apps/EditApp.git
+[submodule "RiscOS/Sources/Apps/Help2"]
+	path = RiscOS/Sources/Apps/Help2
+	url = ../../RiscOS/Sources/Apps/Help2.git
+[submodule "RiscOS/Sources/Apps/Paint"]
+	path = RiscOS/Sources/Apps/Paint
+	url = ../../RiscOS/Sources/Apps/Paint.git
+[submodule "RiscOS/Sources/Desktop/Desktop"]
+	path = RiscOS/Sources/Desktop/Desktop
+	url = ../../RiscOS/Sources/Desktop/Desktop.git
+[submodule "RiscOS/Sources/Desktop/DragASprit"]
+	path = RiscOS/Sources/Desktop/DragASprit
+	url = ../../RiscOS/Sources/Desktop/DragASprit.git
+[submodule "RiscOS/Sources/Desktop/DragAnObj"]
+	path = RiscOS/Sources/Desktop/DragAnObj
+	url = ../../RiscOS/Sources/Desktop/DragAnObj.git
+[submodule "RiscOS/Sources/Desktop/Filer"]
+	path = RiscOS/Sources/Desktop/Filer
+	url = ../../RiscOS/Sources/Desktop/Filer.git
+[submodule "RiscOS/Sources/Desktop/FilerAct"]
+	path = RiscOS/Sources/Desktop/FilerAct
+	url = ../../RiscOS/Sources/Desktop/FilerAct.git
+[submodule "RiscOS/Sources/Desktop/FilerSWIs"]
+	path = RiscOS/Sources/Desktop/FilerSWIs
+	url = ../../RiscOS/Sources/Desktop/FilerSWIs.git
+[submodule "RiscOS/Sources/Desktop/Filter"]
+	path = RiscOS/Sources/Desktop/Filter
+	url = ../../RiscOS/Sources/Desktop/Filter.git
+[submodule "RiscOS/Sources/Desktop/Free"]
+	path = RiscOS/Sources/Desktop/Free
+	url = ../../RiscOS/Sources/Desktop/Free.git
+[submodule "RiscOS/Sources/Desktop/Pinboard"]
+	path = RiscOS/Sources/Desktop/Pinboard
+	url = ../../RiscOS/Sources/Desktop/Pinboard.git
+[submodule "RiscOS/Sources/Desktop/ShellCLI"]
+	path = RiscOS/Sources/Desktop/ShellCLI
+	url = ../../RiscOS/Sources/Desktop/ShellCLI.git
+[submodule "RiscOS/Sources/Desktop/Switcher"]
+	path = RiscOS/Sources/Desktop/Switcher
+	url = ../../RiscOS/Sources/Desktop/Switcher.git
+[submodule "RiscOS/Sources/Desktop/WimpUtils"]
+	path = RiscOS/Sources/Desktop/WimpUtils
+	url = ../../RiscOS/Sources/Desktop/WimpUtils.git
+[submodule "RiscOS/Sources/FileSys/FSLock"]
+	path = RiscOS/Sources/FileSys/FSLock
+	url = ../../RiscOS/Sources/FileSys/FSLock.git
+[submodule "RiscOS/Sources/FileSys/FileCore"]
+	path = RiscOS/Sources/FileSys/FileCore
+	url = ../../RiscOS/Sources/FileSys/FileCore.git
+[submodule "RiscOS/Sources/FileSys/ImageFS/DOSFS"]
+	path = RiscOS/Sources/FileSys/ImageFS/DOSFS
+	url = ../../RiscOS/Sources/FileSys/ImageFS/DOSFS.git
+[submodule "RiscOS/Sources/FileSys/PipeFS"]
+	path = RiscOS/Sources/FileSys/PipeFS
+	url = ../../RiscOS/Sources/FileSys/PipeFS.git
+[submodule "RiscOS/Sources/FileSys/RAMFS/RAMFS"]
+	path = RiscOS/Sources/FileSys/RAMFS/RAMFS
+	url = ../../RiscOS/Sources/FileSys/RAMFS/RAMFS.git
+[submodule "RiscOS/Sources/FileSys/RAMFS/RAMFSFiler"]
+	path = RiscOS/Sources/FileSys/RAMFS/RAMFSFiler
+	url = ../../RiscOS/Sources/FileSys/RAMFS/RAMFSFiler.git
+[submodule "RiscOS/Sources/FileSys/ResourceFS/ResFiler"]
+	path = RiscOS/Sources/FileSys/ResourceFS/ResFiler
+	url = ../../RiscOS/Sources/FileSys/ResourceFS/ResFiler.git
+[submodule "RiscOS/Sources/HWSupport/ARM"]
+	path = RiscOS/Sources/HWSupport/ARM
+	url = ../../RiscOS/Sources/HWSupport/ARM.git
+[submodule "RiscOS/Sources/HWSupport/DMA"]
+	path = RiscOS/Sources/HWSupport/DMA
+	url = ../../RiscOS/Sources/HWSupport/DMA.git
+[submodule "RiscOS/Sources/HWSupport/DeviceFS"]
+	path = RiscOS/Sources/HWSupport/DeviceFS
+	url = ../../RiscOS/Sources/HWSupport/DeviceFS.git
+[submodule "RiscOS/Sources/HWSupport/DualSerial"]
+	path = RiscOS/Sources/HWSupport/DualSerial
+	url = ../../RiscOS/Sources/HWSupport/DualSerial.git
+	branch = HAL
+[submodule "RiscOS/Sources/HWSupport/FPASCBlob"]
+	path = RiscOS/Sources/HWSupport/FPASCBlob
+	url = ../../RiscOS/Sources/HWSupport/FPASCBlob.git
+[submodule "RiscOS/Sources/HWSupport/IIC"]
+	path = RiscOS/Sources/HWSupport/IIC
+	url = ../../RiscOS/Sources/HWSupport/IIC.git
+	branch = HAL
+[submodule "RiscOS/Sources/HWSupport/PCI"]
+	path = RiscOS/Sources/HWSupport/PCI
+	url = ../../RiscOS/Sources/HWSupport/PCI.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSISwitch"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSISwitch
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISwitch.git
+[submodule "RiscOS/Sources/HWSupport/SerMouse"]
+	path = RiscOS/Sources/HWSupport/SerMouse
+	url = ../../RiscOS/Sources/HWSupport/SerMouse.git
+[submodule "RiscOS/Sources/HWSupport/SerialSpt"]
+	path = RiscOS/Sources/HWSupport/SerialSpt
+	url = ../../RiscOS/Sources/HWSupport/SerialSpt.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Sound1"]
+	path = RiscOS/Sources/HWSupport/Sound/Sound1
+	url = ../../RiscOS/Sources/HWSupport/Sound/Sound1.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Sound2"]
+	path = RiscOS/Sources/HWSupport/Sound/Sound2
+	url = ../../RiscOS/Sources/HWSupport/Sound/Sound2.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Voices/Percussion"]
+	path = RiscOS/Sources/HWSupport/Sound/Voices/Percussion
+	url = ../../RiscOS/Sources/HWSupport/Sound/Voices/Percussion.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Voices/StringLib"]
+	path = RiscOS/Sources/HWSupport/Sound/Voices/StringLib
+	url = ../../RiscOS/Sources/HWSupport/Sound/Voices/StringLib.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Voices/WaveSynth"]
+	path = RiscOS/Sources/HWSupport/Sound/Voices/WaveSynth
+	url = ../../RiscOS/Sources/HWSupport/Sound/Voices/WaveSynth.git
+[submodule "RiscOS/Sources/HWSupport/SystemDevs"]
+	path = RiscOS/Sources/HWSupport/SystemDevs
+	url = ../../RiscOS/Sources/HWSupport/SystemDevs.git
+[submodule "RiscOS/Sources/Internat/IntKey"]
+	path = RiscOS/Sources/Internat/IntKey
+	url = ../../RiscOS/Sources/Internat/IntKey.git
+[submodule "RiscOS/Sources/Internat/Inter"]
+	path = RiscOS/Sources/Internat/Inter
+	url = ../../RiscOS/Sources/Internat/Inter.git
+[submodule "RiscOS/Sources/Internat/Territory/TerritoryModule"]
+	path = RiscOS/Sources/Internat/Territory/TerritoryModule
+	url = ../../RiscOS/Sources/Internat/Territory/TerritoryModule.git
+[submodule "RiscOS/Sources/Programmer/BASIC"]
+	path = RiscOS/Sources/Programmer/BASIC
+	url = ../../RiscOS/Sources/Programmer/BASIC.git
+[submodule "RiscOS/Sources/Programmer/BASICTrans"]
+	path = RiscOS/Sources/Programmer/BASICTrans
+	url = ../../RiscOS/Sources/Programmer/BASICTrans.git
+[submodule "RiscOS/Sources/Programmer/BootCmds"]
+	path = RiscOS/Sources/Programmer/BootCmds
+	url = ../../RiscOS/Sources/Programmer/BootCmds.git
+[submodule "RiscOS/Sources/Programmer/Debugger"]
+	path = RiscOS/Sources/Programmer/Debugger
+	url = ../../RiscOS/Sources/Programmer/Debugger.git
+[submodule "RiscOS/Sources/Programmer/Obey"]
+	path = RiscOS/Sources/Programmer/Obey
+	url = ../../RiscOS/Sources/Programmer/Obey.git
+[submodule "RiscOS/Sources/Programmer/SquashBlob"]
+	path = RiscOS/Sources/Programmer/SquashBlob
+	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
+[submodule "RiscOS/Sources/Toolbox/ColourDbox"]
+	path = RiscOS/Sources/Toolbox/ColourDbox
+	url = ../../RiscOS/Sources/Toolbox/ColourDbox.git
+[submodule "RiscOS/Sources/Toolbox/ColourMenu"]
+	path = RiscOS/Sources/Toolbox/ColourMenu
+	url = ../../RiscOS/Sources/Toolbox/ColourMenu.git
+[submodule "RiscOS/Sources/Toolbox/tboxlib"]
+	path = RiscOS/Sources/Toolbox/tboxlib
+	url = ../../RiscOS/Sources/Toolbox/tboxlib.git
+[submodule "RiscOS/Sources/Toolbox/DCS"]
+	path = RiscOS/Sources/Toolbox/DCS
+	url = ../../RiscOS/Sources/Toolbox/DCS.git
+[submodule "RiscOS/Sources/Toolbox/FileInfo"]
+	path = RiscOS/Sources/Toolbox/FileInfo
+	url = ../../RiscOS/Sources/Toolbox/FileInfo.git
+[submodule "RiscOS/Sources/Toolbox/FontDbox"]
+	path = RiscOS/Sources/Toolbox/FontDbox
+	url = ../../RiscOS/Sources/Toolbox/FontDbox.git
+[submodule "RiscOS/Sources/Toolbox/FontMenu"]
+	path = RiscOS/Sources/Toolbox/FontMenu
+	url = ../../RiscOS/Sources/Toolbox/FontMenu.git
+[submodule "RiscOS/Sources/Toolbox/Gadgets"]
+	path = RiscOS/Sources/Toolbox/Gadgets
+	url = ../../RiscOS/Sources/Toolbox/Gadgets.git
+[submodule "RiscOS/Sources/Toolbox/IconBar"]
+	path = RiscOS/Sources/Toolbox/IconBar
+	url = ../../RiscOS/Sources/Toolbox/IconBar.git
+[submodule "RiscOS/Sources/Toolbox/ToolboxLib"]
+	path = RiscOS/Sources/Toolbox/ToolboxLib
+	url = ../../RiscOS/Sources/Toolbox/ToolboxLib.git
+[submodule "RiscOS/Sources/Toolbox/Menu"]
+	path = RiscOS/Sources/Toolbox/Menu
+	url = ../../RiscOS/Sources/Toolbox/Menu.git
+[submodule "RiscOS/Sources/Toolbox/PrintDbox"]
+	path = RiscOS/Sources/Toolbox/PrintDbox
+	url = ../../RiscOS/Sources/Toolbox/PrintDbox.git
+[submodule "RiscOS/Sources/Toolbox/ProgInfo"]
+	path = RiscOS/Sources/Toolbox/ProgInfo
+	url = ../../RiscOS/Sources/Toolbox/ProgInfo.git
+[submodule "RiscOS/Sources/Toolbox/SaveAs"]
+	path = RiscOS/Sources/Toolbox/SaveAs
+	url = ../../RiscOS/Sources/Toolbox/SaveAs.git
+[submodule "RiscOS/Sources/Toolbox/Scale"]
+	path = RiscOS/Sources/Toolbox/Scale
+	url = ../../RiscOS/Sources/Toolbox/Scale.git
+[submodule "RiscOS/Sources/Toolbox/TinyStubs"]
+	path = RiscOS/Sources/Toolbox/TinyStubs
+	url = ../../RiscOS/Sources/Toolbox/TinyStubs.git
+[submodule "RiscOS/Sources/Toolbox/ToolAction"]
+	path = RiscOS/Sources/Toolbox/ToolAction
+	url = ../../RiscOS/Sources/Toolbox/ToolAction.git
+[submodule "RiscOS/Sources/Toolbox/Toolbox"]
+	path = RiscOS/Sources/Toolbox/Toolbox
+	url = ../../RiscOS/Sources/Toolbox/Toolbox.git
+[submodule "RiscOS/Sources/Toolbox/Window"]
+	path = RiscOS/Sources/Toolbox/Window
+	url = ../../RiscOS/Sources/Toolbox/Window.git
+[submodule "RiscOS/Sources/Video/Render/DrawMod"]
+	path = RiscOS/Sources/Video/Render/DrawMod
+	url = ../../RiscOS/Sources/Video/Render/DrawMod.git
+[submodule "RiscOS/Sources/Video/Render/DrawFile"]
+	path = RiscOS/Sources/Video/Render/DrawFile
+	url = ../../RiscOS/Sources/Video/Render/DrawFile.git
+[submodule "RiscOS/Sources/Video/Render/Fonts/ITable"]
+	path = RiscOS/Sources/Video/Render/Fonts/ITable
+	url = ../../RiscOS/Sources/Video/Render/Fonts/ITable.git
+[submodule "RiscOS/Sources/Video/Render/Fonts/ROMFonts"]
+	path = RiscOS/Sources/Video/Render/Fonts/ROMFonts
+	url = ../../RiscOS/Sources/Video/Render/Fonts/ROMFonts.git
+[submodule "RiscOS/Sources/Video/Render/Hourglass"]
+	path = RiscOS/Sources/Video/Render/Hourglass
+	url = ../../RiscOS/Sources/Video/Render/Hourglass.git
+[submodule "RiscOS/Sources/Video/Render/ScrBlank"]
+	path = RiscOS/Sources/Video/Render/ScrBlank
+	url = ../../RiscOS/Sources/Video/Render/ScrBlank.git
+[submodule "RiscOS/Sources/Video/Render/SpriteUtil"]
+	path = RiscOS/Sources/Video/Render/SpriteUtil
+	url = ../../RiscOS/Sources/Video/Render/SpriteUtil.git
+[submodule "RiscOS/Sources/Video/Render/Super"]
+	path = RiscOS/Sources/Video/Render/Super
+	url = ../../RiscOS/Sources/Video/Render/Super.git
+[submodule "RiscOS/Sources/Video/UserI/Display"]
+	path = RiscOS/Sources/Video/UserI/Display
+	url = ../../RiscOS/Sources/Video/UserI/Display.git
+[submodule "RiscOS/Sources/Video/UserI/Picker"]
+	path = RiscOS/Sources/Video/UserI/Picker
+	url = ../../RiscOS/Sources/Video/UserI/Picker.git
+[submodule "RiscOS/Sources/Video/UserI/ScrModes"]
+	path = RiscOS/Sources/Video/UserI/ScrModes
+	url = ../../RiscOS/Sources/Video/UserI/ScrModes.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSaver"]
+	path = RiscOS/Sources/Video/UserI/ScrSaver
+	url = ../../RiscOS/Sources/Video/UserI/ScrSaver.git
+	branch = Ursula
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
+[submodule "RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver"]
+	path = RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
+[submodule "RiscOS/Sources/Video/Render/SprExtend"]
+	path = RiscOS/Sources/Video/Render/SprExtend
+	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
