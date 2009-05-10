@@ -424,3 +424,6 @@
 [submodule "RiscOS/Sources/FileSys/ADFS/ADFS"]
 	path = RiscOS/Sources/FileSys/ADFS/ADFS
 	url = ../../RiscOS/Sources/FileSys/ADFS/ADFS.git
+[submodule "RiscOS/Sources/FileSys/ADFS/ADFSFiler"]
+	path = RiscOS/Sources/FileSys/ADFS/ADFSFiler
+	url = ../../RiscOS/Sources/FileSys/ADFS/ADFSFiler.git
