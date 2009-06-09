@@ -225,3 +225,30 @@
 [submodule "RiscOS/Sources/Lib/Desk"]
 	path = RiscOS/Sources/Lib/Desk
 	url = ../../RiscOS/Sources/Lib/Desk.git
+[submodule "RiscOS/Sources/Lib/CLXLite"]
+	path = RiscOS/Sources/Lib/CLXLite
+	url = ../../RiscOS/Sources/Lib/CLXLite.git
+[submodule "RiscOS/Tools/Sources/UNIX/chmod"]
+	path = RiscOS/Tools/Sources/UNIX/chmod
+	url = ../../RiscOS/Tools/Sources/UNIX/chmod.git
+[submodule "RiscOS/Tools/Sources/diff"]
+	path = RiscOS/Tools/Sources/diff
+	url = ../../RiscOS/Tools/Sources/diff.git
+[submodule "RiscOS/Tools/Sources/find"]
+	path = RiscOS/Tools/Sources/find
+	url = ../../RiscOS/Tools/Sources/find.git
+[submodule "RiscOS/Tools/Sources/modsqz"]
+	path = RiscOS/Tools/Sources/modsqz
+	url = ../../RiscOS/Tools/Sources/modsqz.git
+[submodule "RiscOS/Tools/Sources/squeeze"]
+	path = RiscOS/Tools/Sources/squeeze
+	url = ../../RiscOS/Tools/Sources/squeeze.git
+[submodule "RiscOS/Tools/Sources/unmodsqz"]
+	path = RiscOS/Tools/Sources/unmodsqz
+	url = ../../RiscOS/Tools/Sources/unmodsqz.git
+[submodule "RiscOS/Utilities/Release/romlinker"]
+	path = RiscOS/Utilities/Release/romlinker
+	url = ../../RiscOS/Utilities/Release/romlinker.git
+[submodule "RiscOS/Utilities/Release/srcbuild"]
+	path = RiscOS/Utilities/Release/srcbuild
+	url = ../../RiscOS/Utilities/Release/srcbuild.git
