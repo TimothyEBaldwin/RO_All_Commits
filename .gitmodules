@@ -220,9 +220,11 @@
 [submodule "RiscOS/Sources/HWSupport/DualSerial"]
 	path = RiscOS/Sources/HWSupport/DualSerial
 	url = ../../RiscOS/Sources/HWSupport/DualSerial.git
+	branch = HAL
 [submodule "RiscOS/Sources/HWSupport/IIC"]
 	path = RiscOS/Sources/HWSupport/IIC
 	url = ../../RiscOS/Sources/HWSupport/IIC.git
+	branch = HAL
 [submodule "RiscOS/Sources/HWSupport/Joystick"]
 	path = RiscOS/Sources/HWSupport/Joystick
 	url = ../../RiscOS/Sources/HWSupport/Joystick.git
@@ -328,6 +330,7 @@
 [submodule "RiscOS/Sources/Kernel"]
 	path = RiscOS/Sources/Kernel
 	url = ../../RiscOS/Sources/Kernel.git
+	branch = HAL
 [submodule "RiscOS/Sources/Lib/AcornNC"]
 	path = RiscOS/Sources/Lib/AcornNC
 	url = ../../RiscOS/Sources/Lib/AcornNC.git
@@ -511,6 +514,7 @@
 [submodule "RiscOS/Sources/Programmer/HostFS"]
 	path = RiscOS/Sources/Programmer/HostFS
 	url = ../../RiscOS/Sources/Programmer/HostFS.git
+	branch = HAL
 [submodule "RiscOS/Sources/Programmer/KeyWatch"]
 	path = RiscOS/Sources/Programmer/KeyWatch
 	url = ../../RiscOS/Sources/Programmer/KeyWatch.git
@@ -703,6 +707,7 @@
 [submodule "RiscOS/Sources/Video/UserI/ScrSaver"]
 	path = RiscOS/Sources/Video/UserI/ScrSaver
 	url = ../../RiscOS/Sources/Video/UserI/ScrSaver.git
+	branch = Ursula
 [submodule "RiscOS/Sources/Video/UserI/ScrSavers/AcornLogo"]
 	path = RiscOS/Sources/Video/UserI/ScrSavers/AcornLogo
 	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/AcornLogo.git
