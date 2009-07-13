@@ -498,3 +498,6 @@
 [submodule "RiscOS/Sources/Programmer/SquashBlob"]
 	path = RiscOS/Sources/Programmer/SquashBlob
 	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
+[submodule "RiscOS/Utilities/Autobuild/ABRelease"]
+	path = RiscOS/Utilities/Autobuild/ABRelease
+	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
