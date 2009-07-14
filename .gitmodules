@@ -252,3 +252,6 @@
 [submodule "RiscOS/Utilities/Release/srcbuild"]
 	path = RiscOS/Utilities/Release/srcbuild
 	url = ../../RiscOS/Utilities/Release/srcbuild.git
+[submodule "RiscOS/Utilities/Autobuild/ABRelease"]
+	path = RiscOS/Utilities/Autobuild/ABRelease
+	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
