@@ -433,3 +433,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver.git
+[submodule "RiscOS/Utilities/Autobuild/ABRelease"]
+	path = RiscOS/Utilities/Autobuild/ABRelease
+	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
