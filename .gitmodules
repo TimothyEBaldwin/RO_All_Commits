@@ -436,3 +436,60 @@
 [submodule "RiscOS/Utilities/Autobuild/ABRelease"]
 	path = RiscOS/Utilities/Autobuild/ABRelease
 	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
+[submodule "RiscOS/Sources/FileSys/NetFS/NetFS"]
+	path = RiscOS/Sources/FileSys/NetFS/NetFS
+	url = ../../RiscOS/Sources/FileSys/NetFS/NetFS.git
+[submodule "RiscOS/Sources/FileSys/NetFS/NetFiler"]
+	path = RiscOS/Sources/FileSys/NetFS/NetFiler
+	url = ../../RiscOS/Sources/FileSys/NetFS/NetFiler.git
+[submodule "RiscOS/Sources/FileSys/NetPrint"]
+	path = RiscOS/Sources/FileSys/NetPrint
+	url = ../../RiscOS/Sources/FileSys/NetPrint.git
+[submodule "RiscOS/Sources/Networking/AUN/AUNMsgs"]
+	path = RiscOS/Sources/Networking/AUN/AUNMsgs
+	url = ../../RiscOS/Sources/Networking/AUN/AUNMsgs.git
+[submodule "RiscOS/Sources/Networking/AUN/Access/Freeway"]
+	path = RiscOS/Sources/Networking/AUN/Access/Freeway
+	url = ../../RiscOS/Sources/Networking/AUN/Access/Freeway.git
+[submodule "RiscOS/Sources/Networking/AUN/Access/ShareFSBlob"]
+	path = RiscOS/Sources/Networking/AUN/Access/ShareFSBlob
+	url = ../../RiscOS/Sources/Networking/AUN/Access/ShareFSBlob.git
+[submodule "RiscOS/Sources/Networking/AUN/BootNet"]
+	path = RiscOS/Sources/Networking/AUN/BootNet
+	url = ../../RiscOS/Sources/Networking/AUN/BootNet.git
+[submodule "RiscOS/Sources/Networking/AUN/MManagerBlob"]
+	path = RiscOS/Sources/Networking/AUN/MManagerBlob
+	url = ../../RiscOS/Sources/Networking/AUN/MManagerBlob.git
+[submodule "RiscOS/Sources/Networking/AUN/Net"]
+	path = RiscOS/Sources/Networking/AUN/Net
+	url = ../../RiscOS/Sources/Networking/AUN/Net.git
+[submodule "RiscOS/Sources/Networking/BBCEconet"]
+	path = RiscOS/Sources/Networking/BBCEconet
+	url = ../../RiscOS/Sources/Networking/BBCEconet.git
+[submodule "RiscOS/Sources/Networking/DHCP"]
+	path = RiscOS/Sources/Networking/DHCP
+	url = ../../RiscOS/Sources/Networking/DHCP.git
+[submodule "RiscOS/Sources/Networking/MimeMapBlob"]
+	path = RiscOS/Sources/Networking/MimeMapBlob
+	url = ../../RiscOS/Sources/Networking/MimeMapBlob.git
+[submodule "RiscOS/Sources/Networking/NetStatus"]
+	path = RiscOS/Sources/Networking/NetStatus
+	url = ../../RiscOS/Sources/Networking/NetStatus.git
+[submodule "RiscOS/Sources/Networking/NetUtils2"]
+	path = RiscOS/Sources/Networking/NetUtils2
+	url = ../../RiscOS/Sources/Networking/NetUtils2.git
+[submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS"]
+	path = RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS
+	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS.git
+[submodule "RiscOS/Sources/Networking/ResolverBlob"]
+	path = RiscOS/Sources/Networking/ResolverBlob
+	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
+[submodule "RiscOS/Sources/Programmer/RTSupport"]
+	path = RiscOS/Sources/Programmer/RTSupport
+	url = ../../RiscOS/Sources/Programmer/RTSupport.git
+[submodule "RiscOS/Sources/Networking/AUN/Internet"]
+	path = RiscOS/Sources/Networking/AUN/Internet
+	url = ../../RiscOS/Sources/Networking/AUN/Internet.git
+[submodule "RiscOS/Sources/SystemRes/InetRes"]
+	path = RiscOS/Sources/SystemRes/InetRes
+	url = ../../RiscOS/Sources/SystemRes/InetRes.git
