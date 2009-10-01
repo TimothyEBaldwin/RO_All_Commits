@@ -454,3 +454,6 @@
 [submodule "RiscOS/Sources/Apps/Paint"]
 	path = RiscOS/Sources/Apps/Paint
 	url = ../../RiscOS/Sources/Apps/Paint.git
+[submodule "RiscOS/Sources/Networking/Omni/Apps/Omni"]
+	path = RiscOS/Sources/Networking/Omni/Apps/Omni
+	url = ../../RiscOS/Sources/Networking/Omni/Apps/Omni.git
