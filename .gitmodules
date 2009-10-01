@@ -448,3 +448,9 @@
 [submodule "RiscOS/Sources/SystemRes/ResApp"]
 	path = RiscOS/Sources/SystemRes/ResApp
 	url = ../../RiscOS/Sources/SystemRes/ResApp.git
+[submodule "RiscOS/Sources/Apps/Draw"]
+	path = RiscOS/Sources/Apps/Draw
+	url = ../../RiscOS/Sources/Apps/Draw.git
+[submodule "RiscOS/Sources/Apps/Paint"]
+	path = RiscOS/Sources/Apps/Paint
+	url = ../../RiscOS/Sources/Apps/Paint.git
