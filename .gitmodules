@@ -445,3 +445,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/SystemRes/ResApp"]
+	path = RiscOS/Sources/SystemRes/ResApp
+	url = ../../RiscOS/Sources/SystemRes/ResApp.git
