@@ -457,3 +457,24 @@
 [submodule "RiscOS/Sources/Networking/Omni/Apps/Omni"]
 	path = RiscOS/Sources/Networking/Omni/Apps/Omni
 	url = ../../RiscOS/Sources/Networking/Omni/Apps/Omni.git
+[submodule "RiscOS/Sources/FileSys/ADFS/ADFSFiler"]
+	path = RiscOS/Sources/FileSys/ADFS/ADFSFiler
+	url = ../../RiscOS/Sources/FileSys/ADFS/ADFSFiler.git
+[submodule "RiscOS/Sources/FileSys/SCSIFS/SCSIFS"]
+	path = RiscOS/Sources/FileSys/SCSIFS/SCSIFS
+	url = ../../RiscOS/Sources/FileSys/SCSIFS/SCSIFS.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSIDriver"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSIDriver
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSIDriver.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSISwitch"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSISwitch
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISwitch.git
+[submodule "RiscOS/Sources/Programmer/RTSupport"]
+	path = RiscOS/Sources/Programmer/RTSupport
+	url = ../../RiscOS/Sources/Programmer/RTSupport.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherK"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherK
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherK.git
