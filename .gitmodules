@@ -478,3 +478,12 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherK"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherK
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherK.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSavers/Rain"]
+	path = RiscOS/Sources/Video/UserI/ScrSavers/Rain
+	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/Rain.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSavers/Random"]
+	path = RiscOS/Sources/Video/UserI/ScrSavers/Random
+	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/Random.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSavers/Snow"]
+	path = RiscOS/Sources/Video/UserI/ScrSavers/Snow
+	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/Snow.git
