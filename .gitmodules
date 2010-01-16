@@ -61,9 +61,6 @@
 [submodule "RiscOS/Sources/HWSupport/Serial"]
 	path = RiscOS/Sources/HWSupport/Serial
 	url = ../../RiscOS/Sources/HWSupport/Serial.git
-[submodule "RiscOS/Sources/HWSupport/Sound/Sound0Trid"]
-	path = RiscOS/Sources/HWSupport/Sound/Sound0Trid
-	url = ../../RiscOS/Sources/HWSupport/Sound/Sound0Trid.git
 [submodule "RiscOS/Sources/Internat/Messages"]
 	path = RiscOS/Sources/Internat/Messages
 	url = ../../RiscOS/Sources/Internat/Messages.git
@@ -493,3 +490,9 @@
 [submodule "RiscOS/Sources/SystemRes/InetRes"]
 	path = RiscOS/Sources/SystemRes/InetRes
 	url = ../../RiscOS/Sources/SystemRes/InetRes.git
+[submodule "RiscOS/Sources/Audio/SoundCtrl"]
+	path = RiscOS/Sources/Audio/SoundCtrl
+	url = ../../RiscOS/Sources/Audio/SoundCtrl.git
+[submodule "RiscOS/Sources/HWSupport/Sound/Sound0HAL"]
+	path = RiscOS/Sources/HWSupport/Sound/Sound0HAL
+	url = ../../RiscOS/Sources/HWSupport/Sound/Sound0HAL.git
