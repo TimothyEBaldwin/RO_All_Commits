@@ -52,9 +52,6 @@
 [submodule "RiscOS/Sources/HWSupport/PortMan"]
 	path = RiscOS/Sources/HWSupport/PortMan
 	url = ../../RiscOS/Sources/HWSupport/PortMan.git
-[submodule "RiscOS/Sources/HWSupport/Portable"]
-	path = RiscOS/Sources/HWSupport/Portable
-	url = ../../RiscOS/Sources/HWSupport/Portable.git
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSIDriver"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSIDriver
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSIDriver.git
@@ -496,3 +493,6 @@
 [submodule "RiscOS/Sources/HWSupport/Sound/Sound0HAL"]
 	path = RiscOS/Sources/HWSupport/Sound/Sound0HAL
 	url = ../../RiscOS/Sources/HWSupport/Sound/Sound0HAL.git
+[submodule "RiscOS/Sources/HWSupport/PortableHAL"]
+	path = RiscOS/Sources/HWSupport/PortableHAL
+	url = ../../RiscOS/Sources/HWSupport/PortableHAL.git
