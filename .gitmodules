@@ -487,3 +487,9 @@
 [submodule "RiscOS/Sources/Video/UserI/ScrSavers/Snow"]
 	path = RiscOS/Sources/Video/UserI/ScrSavers/Snow
 	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/Snow.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSavers/DeskBall"]
+	path = RiscOS/Sources/Video/UserI/ScrSavers/DeskBall
+	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/DeskBall.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSavers/Shred"]
+	path = RiscOS/Sources/Video/UserI/ScrSavers/Shred
+	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/Shred.git
