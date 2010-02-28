@@ -496,3 +496,6 @@
 [submodule "RiscOS/Sources/HWSupport/PortableHAL"]
 	path = RiscOS/Sources/HWSupport/PortableHAL
 	url = ../../RiscOS/Sources/HWSupport/PortableHAL.git
+[submodule "RiscOS/Sources/Video/HWSupport/OMAPVideo"]
+	path = RiscOS/Sources/Video/HWSupport/OMAPVideo
+	url = ../../RiscOS/Sources/Video/HWSupport/OMAPVideo.git
