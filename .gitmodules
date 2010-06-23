@@ -245,9 +245,6 @@
 	path = RiscOS/Sources/HWSupport/DualSerial
 	url = ../../RiscOS/Sources/HWSupport/DualSerial.git
 	branch = HAL
-[submodule "RiscOS/Sources/HWSupport/FPASCBlob"]
-	path = RiscOS/Sources/HWSupport/FPASCBlob
-	url = ../../RiscOS/Sources/HWSupport/FPASCBlob.git
 [submodule "RiscOS/Sources/HWSupport/IIC"]
 	path = RiscOS/Sources/HWSupport/IIC
 	url = ../../RiscOS/Sources/HWSupport/IIC.git
@@ -499,3 +496,15 @@
 [submodule "RiscOS/Sources/Video/HWSupport/OMAPVideo"]
 	path = RiscOS/Sources/Video/HWSupport/OMAPVideo
 	url = ../../RiscOS/Sources/Video/HWSupport/OMAPVideo.git
+[submodule "RiscOS/Sources/FileSys/CDFS/CDFS"]
+	path = RiscOS/Sources/FileSys/CDFS/CDFS
+	url = ../../RiscOS/Sources/FileSys/CDFS/CDFS.git
+[submodule "RiscOS/Sources/FileSys/CDFS/CDFSFiler"]
+	path = RiscOS/Sources/FileSys/CDFS/CDFSFiler
+	url = ../../RiscOS/Sources/FileSys/CDFS/CDFSFiler.git
+[submodule "RiscOS/Sources/HWSupport/CD/CDFSDriver"]
+	path = RiscOS/Sources/HWSupport/CD/CDFSDriver
+	url = ../../RiscOS/Sources/HWSupport/CD/CDFSDriver.git
+[submodule "RiscOS/Sources/HWSupport/FPASC"]
+	path = RiscOS/Sources/HWSupport/FPASC
+	url = ../../RiscOS/Sources/HWSupport/FPASC.git
