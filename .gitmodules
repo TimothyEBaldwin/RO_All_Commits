@@ -508,3 +508,6 @@
 [submodule "RiscOS/Sources/HWSupport/FPASC"]
 	path = RiscOS/Sources/HWSupport/FPASC
 	url = ../../RiscOS/Sources/HWSupport/FPASC.git
+[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
+	path = RiscOS/Sources/HWSupport/VFPSupport
+	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
