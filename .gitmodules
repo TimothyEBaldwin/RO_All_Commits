@@ -493,3 +493,12 @@
 [submodule "RiscOS/Sources/Video/UserI/ScrSavers/Shred"]
 	path = RiscOS/Sources/Video/UserI/ScrSavers/Shred
 	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/Shred.git
+[submodule "RiscOS/Sources/Video/UserI/ScrSavers/SprBounce"]
+	path = RiscOS/Sources/Video/UserI/ScrSavers/SprBounce
+	url = ../../RiscOS/Sources/Video/UserI/ScrSavers/SprBounce.git
+[submodule "RiscOS/Sources/Apps/SparkFSBin"]
+	path = RiscOS/Sources/Apps/SparkFSBin
+	url = ../../RiscOS/Sources/Apps/SparkFSBin.git
+[submodule "RiscOS/Sources/Video/Render/JCompMod"]
+	path = RiscOS/Sources/Video/Render/JCompMod
+	url = ../../RiscOS/Sources/Video/Render/JCompMod.git
