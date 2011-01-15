@@ -119,7 +119,6 @@
 [submodule "RiscOS/Sources/Programmer/HdrSrc"]
 	path = RiscOS/Sources/Programmer/HdrSrc
 	url = ../../RiscOS/Sources/Programmer/HdrSrc.git
-	branch = Cortex
 [submodule "RiscOS/Sources/Programmer/HostFS"]
 	path = RiscOS/Sources/Programmer/HostFS
 	url = ../../RiscOS/Sources/Programmer/HostFS.git
