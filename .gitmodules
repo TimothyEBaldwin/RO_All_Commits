@@ -255,3 +255,6 @@
 [submodule "RiscOS/Utilities/Autobuild/ABRelease"]
 	path = RiscOS/Utilities/Autobuild/ABRelease
 	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
+[submodule "RiscOS/Sources/SystemRes/DesktopBoot"]
+	path = RiscOS/Sources/SystemRes/DesktopBoot
+	url = ../../RiscOS/Sources/SystemRes/DesktopBoot.git
