@@ -502,3 +502,6 @@
 [submodule "RiscOS/Sources/Video/Render/JCompMod"]
 	path = RiscOS/Sources/Video/Render/JCompMod
 	url = ../../RiscOS/Sources/Video/Render/JCompMod.git
+[submodule "RiscOS/Apps/PlingPrepare"]
+	path = RiscOS/Apps/!Prepare
+	url = ../../RiscOS/Apps/PlingPrepare.git
