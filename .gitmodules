@@ -504,3 +504,6 @@
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
+[submodule "RiscOS/Apps/PlingPrepare"]
+	path = RiscOS/Apps/!Prepare
+	url = ../../RiscOS/Apps/PlingPrepare.git
