@@ -258,3 +258,6 @@
 [submodule "RiscOS/Sources/SystemRes/DesktopBoot"]
 	path = RiscOS/Sources/SystemRes/DesktopBoot
 	url = ../../RiscOS/Sources/SystemRes/DesktopBoot.git
+[submodule "RiscOS/Tools/Sources/LibUtils"]
+	path = RiscOS/Tools/Sources/LibUtils
+	url = ../../RiscOS/Tools/Sources/LibUtils.git
