@@ -477,9 +477,6 @@
 [submodule "RiscOS/Apps/PlingEraseCVS"]
 	path = RiscOS/Apps/!EraseCVS
 	url = ../../RiscOS/Apps/PlingEraseCVS.git
-[submodule "RiscOS/Sources/HWSupport/FPASCBlob"]
-	path = RiscOS/Sources/HWSupport/FPASCBlob
-	url = ../../RiscOS/Sources/HWSupport/FPASCBlob.git
 [submodule "RiscOS/Sources/Networking/AUN/Access/ShareFSBlob"]
 	path = RiscOS/Sources/Networking/AUN/Access/ShareFSBlob
 	url = ../../RiscOS/Sources/Networking/AUN/Access/ShareFSBlob.git
@@ -507,3 +504,6 @@
 [submodule "RiscOS/Apps/PlingPrepare"]
 	path = RiscOS/Apps/!Prepare
 	url = ../../RiscOS/Apps/PlingPrepare.git
+[submodule "RiscOS/Sources/HWSupport/FPASC"]
+	path = RiscOS/Sources/HWSupport/FPASC
+	url = ../../RiscOS/Sources/HWSupport/FPASC.git
