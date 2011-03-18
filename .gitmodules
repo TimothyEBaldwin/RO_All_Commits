@@ -118,9 +118,6 @@
 [submodule "RiscOS/Sources/HWSupport/DeviceFS"]
 	path = RiscOS/Sources/HWSupport/DeviceFS
 	url = ../../RiscOS/Sources/HWSupport/DeviceFS.git
-[submodule "RiscOS/Sources/HWSupport/FPASCBlob"]
-	path = RiscOS/Sources/HWSupport/FPASCBlob
-	url = ../../RiscOS/Sources/HWSupport/FPASCBlob.git
 [submodule "RiscOS/Sources/HWSupport/IIC"]
 	path = RiscOS/Sources/HWSupport/IIC
 	url = ../../RiscOS/Sources/HWSupport/IIC.git
@@ -505,3 +502,6 @@
 [submodule "RiscOS/Apps/PlingPrepare"]
 	path = RiscOS/Apps/!Prepare
 	url = ../../RiscOS/Apps/PlingPrepare.git
+[submodule "RiscOS/Sources/HWSupport/FPASC"]
+	path = RiscOS/Sources/HWSupport/FPASC
+	url = ../../RiscOS/Sources/HWSupport/FPASC.git
