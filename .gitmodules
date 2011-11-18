@@ -505,3 +505,6 @@
 [submodule "RiscOS/Sources/HWSupport/FPASC"]
 	path = RiscOS/Sources/HWSupport/FPASC
 	url = ../../RiscOS/Sources/HWSupport/FPASC.git
+[submodule "RiscOS/Sources/Apps/Diversions/MineHunt"]
+	path = RiscOS/Sources/Apps/Diversions/MineHunt
+	url = ../../RiscOS/Sources/Apps/Diversions/MineHunt.git
