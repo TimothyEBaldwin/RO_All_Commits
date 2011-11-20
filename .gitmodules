@@ -513,3 +513,6 @@
 [submodule "RiscOS/Apps/PlingPrepare"]
 	path = RiscOS/Apps/!Prepare
 	url = ../../RiscOS/Apps/PlingPrepare.git
+[submodule "RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI"]
+	path = RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI
+	url = ../../RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI.git
