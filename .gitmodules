@@ -513,3 +513,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI"]
+	path = RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI
+	url = ../../RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI.git
