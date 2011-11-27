@@ -508,3 +508,9 @@
 [submodule "RiscOS/Sources/Apps/Diversions/MineHunt"]
 	path = RiscOS/Sources/Apps/Diversions/MineHunt
 	url = ../../RiscOS/Sources/Apps/Diversions/MineHunt.git
+[submodule "RiscOS/Sources/HWSupport/Portable"]
+	path = RiscOS/Sources/HWSupport/Portable
+	url = ../../RiscOS/Sources/HWSupport/Portable.git
+[submodule "RiscOS/Sources/Lib/callx"]
+	path = RiscOS/Sources/Lib/callx
+	url = ../../RiscOS/Sources/Lib/callx.git
