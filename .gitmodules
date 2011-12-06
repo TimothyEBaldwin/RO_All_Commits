@@ -516,3 +516,6 @@
 [submodule "RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI"]
 	path = RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI
 	url = ../../RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI.git
+[submodule "RiscOS/Sources/Audio/SharedSnd"]
+	path = RiscOS/Sources/Audio/SharedSnd
+	url = ../../RiscOS/Sources/Audio/SharedSnd.git
