@@ -510,3 +510,15 @@
 [submodule "RiscOS/Sources/Audio/SharedSnd"]
 	path = RiscOS/Sources/Audio/SharedSnd
 	url = ../../RiscOS/Sources/Audio/SharedSnd.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSISwitch"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSISwitch
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISwitch.git
+[submodule "RiscOS/Sources/Programmer/RTSupport"]
+	path = RiscOS/Sources/Programmer/RTSupport
+	url = ../../RiscOS/Sources/Programmer/RTSupport.git
+[submodule "RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI"]
+	path = RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI
+	url = ../../RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI.git
+[submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
+	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
+	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
