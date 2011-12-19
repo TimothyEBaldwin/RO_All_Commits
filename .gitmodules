@@ -514,3 +514,12 @@
 [submodule "RiscOS/Sources/Lib/callx"]
 	path = RiscOS/Sources/Lib/callx
 	url = ../../RiscOS/Sources/Lib/callx.git
+[submodule "RiscOS/Sources/Networking/DHCP"]
+	path = RiscOS/Sources/Networking/DHCP
+	url = ../../RiscOS/Sources/Networking/DHCP.git
+[submodule "RiscOS/Sources/Networking/NetTime"]
+	path = RiscOS/Sources/Networking/NetTime
+	url = ../../RiscOS/Sources/Networking/NetTime.git
+[submodule "RiscOS/Sources/SystemRes/Configure2/PlugIns/SndSetupVIDC"]
+	path = RiscOS/Sources/SystemRes/Configure2/PlugIns/SndSetupVIDC
+	url = ../../RiscOS/Sources/SystemRes/Configure2/PlugIns/SndSetupVIDC.git
