@@ -417,9 +417,6 @@
 [submodule "RiscOS/Sources/FileSys/ADFS/ADFSFiler"]
 	path = RiscOS/Sources/FileSys/ADFS/ADFSFiler
 	url = ../../RiscOS/Sources/FileSys/ADFS/ADFSFiler.git
-[submodule "RiscOS/Sources/Programmer/DADebug"]
-	path = RiscOS/Sources/Programmer/DADebug
-	url = ../../RiscOS/Sources/Programmer/DADebug.git
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver.git
