@@ -523,3 +523,9 @@
 [submodule "RiscOS/Sources/SystemRes/Configure2/PlugIns/SndSetupVIDC"]
 	path = RiscOS/Sources/SystemRes/Configure2/PlugIns/SndSetupVIDC
 	url = ../../RiscOS/Sources/SystemRes/Configure2/PlugIns/SndSetupVIDC.git
+[submodule "RiscOS/Apps/PlingCreateSEC"]
+	path = RiscOS/Apps/!CreateSEC
+	url = ../../RiscOS/Apps/PlingCreateSEC.git
+[submodule "RiscOS/Apps/PlingRoutines"]
+	path = RiscOS/Apps/!Routines
+	url = ../../RiscOS/Apps/PlingRoutines.git
