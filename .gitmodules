@@ -264,3 +264,12 @@
 [submodule "RiscOS/Apps/PlingPrepare"]
 	path = RiscOS/Apps/!Prepare
 	url = ../../RiscOS/Apps/PlingPrepare.git
+[submodule "RiscOS/Tools/Sources/rompress"]
+	path = RiscOS/Tools/Sources/rompress
+	url = ../../RiscOS/Tools/Sources/rompress.git
+[submodule "RiscOS/Sources/HWSupport/FPASC"]
+	path = RiscOS/Sources/HWSupport/FPASC
+	url = ../../RiscOS/Sources/HWSupport/FPASC.git
+[submodule "RiscOS/Sources/Lib/zlib"]
+	path = RiscOS/Sources/Lib/zlib
+	url = ../../RiscOS/Sources/Lib/zlib.git
