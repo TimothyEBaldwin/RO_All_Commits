@@ -310,3 +310,6 @@
 [submodule "RiscOS/Sources/Lib/OSLib"]
 	path = RiscOS/Sources/Lib/OSLib
 	url = ../../RiscOS/Sources/Lib/OSLib.git
+[submodule "RiscOS/Sources/HWSupport/DeviceFS"]
+	path = RiscOS/Sources/HWSupport/DeviceFS
+	url = ../../RiscOS/Sources/HWSupport/DeviceFS.git
