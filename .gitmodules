@@ -519,3 +519,6 @@
 [submodule "RiscOS/Sources/Audio/SharedSnd"]
 	path = RiscOS/Sources/Audio/SharedSnd
 	url = ../../RiscOS/Sources/Audio/SharedSnd.git
+[submodule "RiscOS/Sources/Utilities/SDCreate"]
+	path = RiscOS/Sources/Utilities/SDCreate
+	url = ../../RiscOS/Sources/Utilities/SDCreate.git
