@@ -529,3 +529,9 @@
 [submodule "RiscOS/Apps/PlingRoutines"]
 	path = RiscOS/Apps/!Routines
 	url = ../../RiscOS/Apps/PlingRoutines.git
+[submodule "RiscOS/Sources/Programmer/ZLibMod"]
+	path = RiscOS/Sources/Programmer/ZLibMod
+	url = ../../RiscOS/Sources/Programmer/ZLibMod.git
+[submodule "RiscOS/Sources/Lib/zlib"]
+	path = RiscOS/Sources/Lib/zlib
+	url = ../../RiscOS/Sources/Lib/zlib.git
