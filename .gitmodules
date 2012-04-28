@@ -522,3 +522,6 @@
 [submodule "RiscOS/Sources/Utilities/SDCreate"]
 	path = RiscOS/Sources/Utilities/SDCreate
 	url = ../../RiscOS/Sources/Utilities/SDCreate.git
+[submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
+	path = RiscOS/Sources/HWSupport/UnSqzAIF
+	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
