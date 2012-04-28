@@ -510,3 +510,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
+	path = RiscOS/Sources/HWSupport/UnSqzAIF
+	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
