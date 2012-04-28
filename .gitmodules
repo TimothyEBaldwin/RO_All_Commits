@@ -522,3 +522,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
+[submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
+	path = RiscOS/Sources/HWSupport/UnSqzAIF
+	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
