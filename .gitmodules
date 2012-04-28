@@ -313,3 +313,6 @@
 [submodule "RiscOS/Sources/HWSupport/DeviceFS"]
 	path = RiscOS/Sources/HWSupport/DeviceFS
 	url = ../../RiscOS/Sources/HWSupport/DeviceFS.git
+[submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
+	path = RiscOS/Sources/HWSupport/UnSqzAIF
+	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
