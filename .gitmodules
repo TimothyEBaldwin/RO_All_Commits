@@ -535,3 +535,6 @@
 [submodule "RiscOS/Sources/Lib/zlib"]
 	path = RiscOS/Sources/Lib/zlib
 	url = ../../RiscOS/Sources/Lib/zlib.git
+[submodule "RiscOS/Sources/Programmer/FrontEnd"]
+	path = RiscOS/Sources/Programmer/FrontEnd
+	url = ../../RiscOS/Sources/Programmer/FrontEnd.git
