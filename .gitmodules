@@ -459,9 +459,6 @@
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
-[submodule "RiscOS/Sources/Video/HWSupport/OMAP4Video"]
-	path = RiscOS/Sources/Video/HWSupport/OMAP4Video
-	url = ../../RiscOS/Sources/Video/HWSupport/OMAP4Video.git
 [submodule "RiscOS/Apps/PlingPerl"]
 	path = RiscOS/Apps/!Perl
 	url = ../../RiscOS/Apps/PlingPerl.git
@@ -525,3 +522,6 @@
 [submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
 	path = RiscOS/Sources/HWSupport/UnSqzAIF
 	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
+[submodule "RiscOS/Sources/Video/HWSupport/OMAPVideo"]
+	path = RiscOS/Sources/Video/HWSupport/OMAPVideo
+	url = ../../RiscOS/Sources/Video/HWSupport/OMAPVideo.git
