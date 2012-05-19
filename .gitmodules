@@ -522,3 +522,6 @@
 [submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
 	path = RiscOS/Sources/HWSupport/UnSqzAIF
 	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherUSB"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherUSB
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherUSB.git
