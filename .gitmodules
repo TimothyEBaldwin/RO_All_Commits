@@ -538,3 +538,6 @@
 [submodule "RiscOS/Sources/Programmer/FrontEnd"]
 	path = RiscOS/Sources/Programmer/FrontEnd
 	url = ../../RiscOS/Sources/Programmer/FrontEnd.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherUSB"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherUSB
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherUSB.git
