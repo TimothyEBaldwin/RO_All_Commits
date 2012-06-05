@@ -525,3 +525,6 @@
 [submodule "RiscOS/Sources/Video/HWSupport/OMAPVideo"]
 	path = RiscOS/Sources/Video/HWSupport/OMAPVideo
 	url = ../../RiscOS/Sources/Video/HWSupport/OMAPVideo.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherUSB"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherUSB
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherUSB.git
