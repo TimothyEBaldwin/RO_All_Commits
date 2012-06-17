@@ -541,3 +541,6 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherUSB"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherUSB
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherUSB.git
+[submodule "RiscOS/Sources/SystemRes/Configure2/PlugIns/TimeSetup"]
+	path = RiscOS/Sources/SystemRes/Configure2/PlugIns/TimeSetup
+	url = ../../RiscOS/Sources/SystemRes/Configure2/PlugIns/TimeSetup.git
