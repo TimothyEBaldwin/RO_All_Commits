@@ -316,3 +316,6 @@
 [submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
 	path = RiscOS/Sources/HWSupport/UnSqzAIF
 	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
+[submodule "RiscOS/Sources/HWSupport/CMOSUtils"]
+	path = RiscOS/Sources/HWSupport/CMOSUtils
+	url = ../../RiscOS/Sources/HWSupport/CMOSUtils.git
