@@ -544,3 +544,6 @@
 [submodule "RiscOS/Sources/SystemRes/Configure2/PlugIns/TimeSetup"]
 	path = RiscOS/Sources/SystemRes/Configure2/PlugIns/TimeSetup
 	url = ../../RiscOS/Sources/SystemRes/Configure2/PlugIns/TimeSetup.git
+[submodule "RiscOS/Sources/SystemRes/LoadWimp"]
+	path = RiscOS/Sources/SystemRes/LoadWimp
+	url = ../../RiscOS/Sources/SystemRes/LoadWimp.git
