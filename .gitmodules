@@ -319,3 +319,6 @@
 [submodule "RiscOS/Sources/HWSupport/CMOSUtils"]
 	path = RiscOS/Sources/HWSupport/CMOSUtils
 	url = ../../RiscOS/Sources/HWSupport/CMOSUtils.git
+[submodule "RiscOS/Sources/Programmer/BootCmds"]
+	path = RiscOS/Sources/Programmer/BootCmds
+	url = ../../RiscOS/Sources/Programmer/BootCmds.git
