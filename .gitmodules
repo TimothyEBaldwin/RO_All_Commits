@@ -556,3 +556,6 @@
 [submodule "RiscOS/Sources/Apps/EditApp"]
 	path = RiscOS/Sources/Apps/EditApp
 	url = ../../RiscOS/Sources/Apps/EditApp.git
+[submodule "RiscOS/Sources/Apps/Help"]
+	path = RiscOS/Sources/Apps/Help
+	url = ../../RiscOS/Sources/Apps/Help.git
