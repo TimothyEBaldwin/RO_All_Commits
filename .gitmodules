@@ -547,3 +547,12 @@
 [submodule "RiscOS/Sources/SystemRes/LoadWimp"]
 	path = RiscOS/Sources/SystemRes/LoadWimp
 	url = ../../RiscOS/Sources/SystemRes/LoadWimp.git
+[submodule "RiscOS/Sources/Apps/Alarm"]
+	path = RiscOS/Sources/Apps/Alarm
+	url = ../../RiscOS/Sources/Apps/Alarm.git
+[submodule "RiscOS/Sources/Apps/Chars"]
+	path = RiscOS/Sources/Apps/Chars
+	url = ../../RiscOS/Sources/Apps/Chars.git
+[submodule "RiscOS/Sources/Apps/EditApp"]
+	path = RiscOS/Sources/Apps/EditApp
+	url = ../../RiscOS/Sources/Apps/EditApp.git
