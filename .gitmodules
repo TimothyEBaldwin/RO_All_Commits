@@ -19,9 +19,6 @@
 [submodule "RiscOS/Export"]
 	path = RiscOS/Export
 	url = ../../RiscOS/Export.git
-[submodule "RiscOS/Sources/Apps/CDPlayer"]
-	path = RiscOS/Sources/Apps/CDPlayer
-	url = ../../RiscOS/Sources/Apps/CDPlayer.git
 [submodule "RiscOS/Sources/Apps/CloseUp"]
 	path = RiscOS/Sources/Apps/CloseUp
 	url = ../../RiscOS/Sources/Apps/CloseUp.git
@@ -100,9 +97,6 @@
 [submodule "RiscOS/Sources/FileSys/ResourceFS/ResourceFS"]
 	path = RiscOS/Sources/FileSys/ResourceFS/ResourceFS
 	url = ../../RiscOS/Sources/FileSys/ResourceFS/ResourceFS.git
-[submodule "RiscOS/Sources/HWSupport/ARM"]
-	path = RiscOS/Sources/HWSupport/ARM
-	url = ../../RiscOS/Sources/HWSupport/ARM.git
 [submodule "RiscOS/Sources/HWSupport/Buffers"]
 	path = RiscOS/Sources/HWSupport/Buffers
 	url = ../../RiscOS/Sources/HWSupport/Buffers.git
@@ -442,9 +436,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
-[submodule "RiscOS/Sources/SystemRes/ResApp"]
-	path = RiscOS/Sources/SystemRes/ResApp
-	url = ../../RiscOS/Sources/SystemRes/ResApp.git
 [submodule "RiscOS/Sources/Apps/Draw"]
 	path = RiscOS/Sources/Apps/Draw
 	url = ../../RiscOS/Sources/Apps/Draw.git
@@ -559,3 +550,9 @@
 [submodule "RiscOS/Sources/Apps/Help"]
 	path = RiscOS/Sources/Apps/Help
 	url = ../../RiscOS/Sources/Apps/Help.git
+[submodule "RiscOS/Sources/Desktop/Desktop"]
+	path = RiscOS/Sources/Desktop/Desktop
+	url = ../../RiscOS/Sources/Desktop/Desktop.git
+[submodule "RiscOS/Sources/SystemRes/ThemeDefs"]
+	path = RiscOS/Sources/SystemRes/ThemeDefs
+	url = ../../RiscOS/Sources/SystemRes/ThemeDefs.git
