@@ -556,3 +556,9 @@
 [submodule "RiscOS/Sources/SystemRes/ThemeDefs"]
 	path = RiscOS/Sources/SystemRes/ThemeDefs
 	url = ../../RiscOS/Sources/SystemRes/ThemeDefs.git
+[submodule "RiscOS/Sources/HWSupport/PCI"]
+	path = RiscOS/Sources/HWSupport/PCI
+	url = ../../RiscOS/Sources/HWSupport/PCI.git
+[submodule "RiscOS/Sources/HWSupport/VCHIQ"]
+	path = RiscOS/Sources/HWSupport/VCHIQ
+	url = ../../RiscOS/Sources/HWSupport/VCHIQ.git
