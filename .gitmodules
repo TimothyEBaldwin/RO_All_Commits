@@ -273,3 +273,9 @@
 [submodule "RiscOS/Sources/Lib/zlib"]
 	path = RiscOS/Sources/Lib/zlib
 	url = ../../RiscOS/Sources/Lib/zlib.git
+[submodule "RiscOS/Sources/Printing/Modules/RemPrnSpt"]
+	path = RiscOS/Sources/Printing/Modules/RemPrnSpt
+	url = ../../RiscOS/Sources/Printing/Modules/RemPrnSpt.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
