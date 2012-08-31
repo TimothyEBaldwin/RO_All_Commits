@@ -562,3 +562,12 @@
 [submodule "RiscOS/Sources/HWSupport/VCHIQ"]
 	path = RiscOS/Sources/HWSupport/VCHIQ
 	url = ../../RiscOS/Sources/HWSupport/VCHIQ.git
+[submodule "RiscOS/Sources/Lib/PRISMLib"]
+	path = RiscOS/Sources/Lib/PRISMLib
+	url = ../../RiscOS/Sources/Lib/PRISMLib.git
+[submodule "RiscOS/Sources/Programmer/ArmBE"]
+	path = RiscOS/Sources/Programmer/ArmBE
+	url = ../../RiscOS/Sources/Programmer/ArmBE.git
+[submodule "RiscOS/Sources/Video/Render/ScreenFX"]
+	path = RiscOS/Sources/Video/Render/ScreenFX
+	url = ../../RiscOS/Sources/Video/Render/ScreenFX.git
