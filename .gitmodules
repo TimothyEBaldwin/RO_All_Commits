@@ -322,3 +322,6 @@
 [submodule "RiscOS/Sources/Programmer/BootCmds"]
 	path = RiscOS/Sources/Programmer/BootCmds
 	url = ../../RiscOS/Sources/Programmer/BootCmds.git
+[submodule "RiscOS/Sources/SystemRes/PatchApp"]
+	path = RiscOS/Sources/SystemRes/PatchApp
+	url = ../../RiscOS/Sources/SystemRes/PatchApp.git
