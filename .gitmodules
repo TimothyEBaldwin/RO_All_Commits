@@ -537,3 +537,6 @@
 [submodule "RiscOS/Sources/HWSupport/SD/SDIODriver"]
 	path = RiscOS/Sources/HWSupport/SD/SDIODriver
 	url = ../../RiscOS/Sources/HWSupport/SD/SDIODriver.git
+[submodule "RiscOS/Sources/Lib/ConfigLib"]
+	path = RiscOS/Sources/Lib/ConfigLib
+	url = ../../RiscOS/Sources/Lib/ConfigLib.git
