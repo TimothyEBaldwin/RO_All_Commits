@@ -525,3 +525,6 @@
 [submodule "RiscOS/Sources/HWSupport/UnSqzAIF"]
 	path = RiscOS/Sources/HWSupport/UnSqzAIF
 	url = ../../RiscOS/Sources/HWSupport/UnSqzAIF.git
+[submodule "RiscOS/Sources/Lib/ConfigLib"]
+	path = RiscOS/Sources/Lib/ConfigLib
+	url = ../../RiscOS/Sources/Lib/ConfigLib.git
