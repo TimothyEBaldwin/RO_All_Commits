@@ -571,3 +571,6 @@
 [submodule "RiscOS/Sources/Video/Render/ScreenFX"]
 	path = RiscOS/Sources/Video/Render/ScreenFX
 	url = ../../RiscOS/Sources/Video/Render/ScreenFX.git
+[submodule "RiscOS/Sources/Utilities/Usage"]
+	path = RiscOS/Sources/Utilities/Usage
+	url = ../../RiscOS/Sources/Utilities/Usage.git
