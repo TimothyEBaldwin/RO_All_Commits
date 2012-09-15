@@ -574,3 +574,6 @@
 [submodule "RiscOS/Sources/Utilities/Usage"]
 	path = RiscOS/Sources/Utilities/Usage
 	url = ../../RiscOS/Sources/Utilities/Usage.git
+[submodule "RiscOS/Sources/Apps/Diversions/Madness"]
+	path = RiscOS/Sources/Apps/Diversions/Madness
+	url = ../../RiscOS/Sources/Apps/Diversions/Madness.git
