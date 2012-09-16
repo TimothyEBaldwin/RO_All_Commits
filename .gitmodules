@@ -325,3 +325,6 @@
 [submodule "RiscOS/Sources/SystemRes/PatchApp"]
 	path = RiscOS/Sources/SystemRes/PatchApp
 	url = ../../RiscOS/Sources/SystemRes/PatchApp.git
+[submodule "RiscOS/Sources/Video/Render/Fonts/ITable"]
+	path = RiscOS/Sources/Video/Render/Fonts/ITable
+	url = ../../RiscOS/Sources/Video/Render/Fonts/ITable.git
