@@ -540,3 +540,6 @@
 [submodule "RiscOS/Sources/Lib/ConfigLib"]
 	path = RiscOS/Sources/Lib/ConfigLib
 	url = ../../RiscOS/Sources/Lib/ConfigLib.git
+[submodule "RiscOS/Sources/HWSupport/PandoraKey"]
+	path = RiscOS/Sources/HWSupport/PandoraKey
+	url = ../../RiscOS/Sources/HWSupport/PandoraKey.git
