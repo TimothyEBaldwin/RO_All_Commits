@@ -577,3 +577,6 @@
 [submodule "RiscOS/Sources/Apps/Diversions/Madness"]
 	path = RiscOS/Sources/Apps/Diversions/Madness
 	url = ../../RiscOS/Sources/Apps/Diversions/Madness.git
+[submodule "RiscOS/Sources/Networking/AUN/Net"]
+	path = RiscOS/Sources/Networking/AUN/Net
+	url = ../../RiscOS/Sources/Networking/AUN/Net.git
