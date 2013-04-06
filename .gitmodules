@@ -583,3 +583,6 @@
 [submodule "RiscOS/Sources/FileSys/SDFS/SDFS"]
 	path = RiscOS/Sources/FileSys/SDFS/SDFS
 	url = ../../RiscOS/Sources/FileSys/SDFS/SDFS.git
+[submodule "RiscOS/Sources/Networking/AUN/Access/Freeway"]
+	path = RiscOS/Sources/Networking/AUN/Access/Freeway
+	url = ../../RiscOS/Sources/Networking/AUN/Access/Freeway.git
