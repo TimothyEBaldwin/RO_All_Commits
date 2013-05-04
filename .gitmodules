@@ -586,3 +586,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/Access/Freeway"]
 	path = RiscOS/Sources/Networking/AUN/Access/Freeway
 	url = ../../RiscOS/Sources/Networking/AUN/Access/Freeway.git
+[submodule "RiscOS/Sources/FileSys/NetPrint"]
+	path = RiscOS/Sources/FileSys/NetPrint
+	url = ../../RiscOS/Sources/FileSys/NetPrint.git
