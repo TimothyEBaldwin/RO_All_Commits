@@ -328,3 +328,9 @@
 [submodule "RiscOS/Sources/Video/Render/Fonts/ITable"]
 	path = RiscOS/Sources/Video/Render/Fonts/ITable
 	url = ../../RiscOS/Sources/Video/Render/Fonts/ITable.git
+[submodule "RiscOS/Sources/Internat/Inter"]
+	path = RiscOS/Sources/Internat/Inter
+	url = ../../RiscOS/Sources/Internat/Inter.git
+[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
+	path = RiscOS/Sources/HWSupport/VFPSupport
+	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
