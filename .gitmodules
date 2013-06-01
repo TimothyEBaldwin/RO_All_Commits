@@ -543,3 +543,6 @@
 [submodule "RiscOS/Sources/HWSupport/BatMgrHAL"]
 	path = RiscOS/Sources/HWSupport/BatMgrHAL
 	url = ../../RiscOS/Sources/HWSupport/BatMgrHAL.git
+[submodule "RiscOS/Sources/Programmer/DADebug"]
+	path = RiscOS/Sources/Programmer/DADebug
+	url = ../../RiscOS/Sources/Programmer/DADebug.git
