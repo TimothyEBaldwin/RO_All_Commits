@@ -231,9 +231,6 @@
 [submodule "RiscOS/Sources/FileSys/ResourceFS/ResFiler"]
 	path = RiscOS/Sources/FileSys/ResourceFS/ResFiler
 	url = ../../RiscOS/Sources/FileSys/ResourceFS/ResFiler.git
-[submodule "RiscOS/Sources/HWSupport/ARM"]
-	path = RiscOS/Sources/HWSupport/ARM
-	url = ../../RiscOS/Sources/HWSupport/ARM.git
 [submodule "RiscOS/Sources/HWSupport/DMA"]
 	path = RiscOS/Sources/HWSupport/DMA
 	url = ../../RiscOS/Sources/HWSupport/DMA.git
