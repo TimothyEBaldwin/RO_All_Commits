@@ -586,3 +586,6 @@
 [submodule "RiscOS/Sources/FileSys/NetPrint"]
 	path = RiscOS/Sources/FileSys/NetPrint
 	url = ../../RiscOS/Sources/FileSys/NetPrint.git
+[submodule "RiscOS/Sources/Audio/SoundCtrl"]
+	path = RiscOS/Sources/Audio/SoundCtrl
+	url = ../../RiscOS/Sources/Audio/SoundCtrl.git
