@@ -165,9 +165,6 @@
 [submodule "RiscOS/Apps/PlingPerl"]
 	path = RiscOS/Apps/!Perl
 	url = ../../RiscOS/Apps/PlingPerl.git
-[submodule "RiscOS/Apps/Plinggcc2_95_4"]
-	path = RiscOS/Apps/!gcc2_95_4
-	url = ../../RiscOS/Apps/Plinggcc2_95_4.git
 [submodule "RiscOS/Sources/Lib/DDTLib"]
 	path = RiscOS/Sources/Lib/DDTLib
 	url = ../../RiscOS/Sources/Lib/DDTLib.git
@@ -198,9 +195,6 @@
 [submodule "RiscOS/Tools/Sources/GNU/ident"]
 	path = RiscOS/Tools/Sources/GNU/ident
 	url = ../../RiscOS/Tools/Sources/GNU/ident.git
-[submodule "RiscOS/Tools/Sources/GNU/libgnu"]
-	path = RiscOS/Tools/Sources/GNU/libgnu
-	url = ../../RiscOS/Tools/Sources/GNU/libgnu.git
 [submodule "RiscOS/Tools/Sources/GNU/readelf"]
 	path = RiscOS/Tools/Sources/GNU/readelf
 	url = ../../RiscOS/Tools/Sources/GNU/readelf.git
@@ -279,3 +273,12 @@
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
+[submodule "RiscOS/Apps/PlingGCC"]
+	path = RiscOS/Apps/!GCC
+	url = ../../RiscOS/Apps/PlingGCC.git
+[submodule "RiscOS/Tools/Sources/GNU/libgnu4"]
+	path = RiscOS/Tools/Sources/GNU/libgnu4
+	url = ../../RiscOS/Tools/Sources/GNU/libgnu4.git
+[submodule "RiscOS/Apps/PlingSharedLibs"]
+	path = RiscOS/Apps/!SharedLibs
+	url = ../../RiscOS/Apps/PlingSharedLibs.git
