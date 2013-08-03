@@ -589,3 +589,6 @@
 [submodule "RiscOS/Sources/Audio/SoundCtrl"]
 	path = RiscOS/Sources/Audio/SoundCtrl
 	url = ../../RiscOS/Sources/Audio/SoundCtrl.git
+[submodule "RiscOS/Sources/SystemRes/Configure2/PlugIns/ThemeSetup"]
+	path = RiscOS/Sources/SystemRes/Configure2/PlugIns/ThemeSetup
+	url = ../../RiscOS/Sources/SystemRes/Configure2/PlugIns/ThemeSetup.git
