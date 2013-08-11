@@ -347,9 +347,6 @@
 [submodule "RiscOS/Sources/Programmer/RTSupport"]
 	path = RiscOS/Sources/Programmer/RTSupport
 	url = ../../RiscOS/Sources/Programmer/RTSupport.git
-[submodule "RiscOS/Sources/Programmer/SquashBlob"]
-	path = RiscOS/Sources/Programmer/SquashBlob
-	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
 [submodule "RiscOS/Sources/Toolbox/ColourDbox"]
 	path = RiscOS/Sources/Toolbox/ColourDbox
 	url = ../../RiscOS/Sources/Toolbox/ColourDbox.git
@@ -540,3 +537,6 @@
 [submodule "RiscOS/Sources/Lib/ConfigLib"]
 	path = RiscOS/Sources/Lib/ConfigLib
 	url = ../../RiscOS/Sources/Lib/ConfigLib.git
+[submodule "RiscOS/Sources/Programmer/Squash"]
+	path = RiscOS/Sources/Programmer/Squash
+	url = ../../RiscOS/Sources/Programmer/Squash.git
