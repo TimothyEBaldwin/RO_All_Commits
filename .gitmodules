@@ -282,3 +282,6 @@
 [submodule "RiscOS/Apps/PlingSharedLibs"]
 	path = RiscOS/Apps/!SharedLibs
 	url = ../../RiscOS/Apps/PlingSharedLibs.git
+[submodule "RiscOS/Sources/Programmer/Squash"]
+	path = RiscOS/Sources/Programmer/Squash
+	url = ../../RiscOS/Sources/Programmer/Squash.git
