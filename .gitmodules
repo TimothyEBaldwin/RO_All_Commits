@@ -299,9 +299,6 @@
 [submodule "RiscOS/Sources/Programmer/Obey"]
 	path = RiscOS/Sources/Programmer/Obey
 	url = ../../RiscOS/Sources/Programmer/Obey.git
-[submodule "RiscOS/Sources/Programmer/SquashBlob"]
-	path = RiscOS/Sources/Programmer/SquashBlob
-	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
 [submodule "RiscOS/Sources/Toolbox/ColourDbox"]
 	path = RiscOS/Sources/Toolbox/ColourDbox
 	url = ../../RiscOS/Sources/Toolbox/ColourDbox.git
@@ -543,3 +540,6 @@
 [submodule "RiscOS/Sources/Programmer/DADebug"]
 	path = RiscOS/Sources/Programmer/DADebug
 	url = ../../RiscOS/Sources/Programmer/DADebug.git
+[submodule "RiscOS/Sources/Programmer/Squash"]
+	path = RiscOS/Sources/Programmer/Squash
+	url = ../../RiscOS/Sources/Programmer/Squash.git
