@@ -486,9 +486,6 @@
 [submodule "RiscOS/Sources/Networking/ResolverBlob"]
 	path = RiscOS/Sources/Networking/ResolverBlob
 	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
-[submodule "RiscOS/Sources/Programmer/SquashBlob"]
-	path = RiscOS/Sources/Programmer/SquashBlob
-	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
 [submodule "RiscOS/Utilities/Autobuild/ABRelease"]
 	path = RiscOS/Utilities/Autobuild/ABRelease
 	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
@@ -522,3 +519,6 @@
 [submodule "RiscOS/Sources/Lib/ConfigLib"]
 	path = RiscOS/Sources/Lib/ConfigLib
 	url = ../../RiscOS/Sources/Lib/ConfigLib.git
+[submodule "RiscOS/Sources/Programmer/Squash"]
+	path = RiscOS/Sources/Programmer/Squash
+	url = ../../RiscOS/Sources/Programmer/Squash.git
