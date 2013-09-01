@@ -142,9 +142,6 @@
 [submodule "RiscOS/Sources/HAL/HAL_OMAP4"]
 	path = RiscOS/Sources/HAL/HAL_OMAP4
 	url = ../../RiscOS/Sources/HAL/HAL_OMAP4.git
-[submodule "RiscOS/Sources/HWSupport/ARM"]
-	path = RiscOS/Sources/HWSupport/ARM
-	url = ../../RiscOS/Sources/HWSupport/ARM.git
 [submodule "RiscOS/Sources/HWSupport/Buffers"]
 	path = RiscOS/Sources/HWSupport/Buffers
 	url = ../../RiscOS/Sources/HWSupport/Buffers.git
