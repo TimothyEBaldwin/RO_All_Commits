@@ -592,3 +592,6 @@
 [submodule "RiscOS/Sources/Programmer/Squash"]
 	path = RiscOS/Sources/Programmer/Squash
 	url = ../../RiscOS/Sources/Programmer/Squash.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherY"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherY
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherY.git
