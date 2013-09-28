@@ -334,3 +334,9 @@
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
+[submodule "RiscOS/Sources/Networking/Econet"]
+	path = RiscOS/Sources/Networking/Econet
+	url = ../../RiscOS/Sources/Networking/Econet.git
+[submodule "RiscOS/Sources/Networking/AUN/Internet"]
+	path = RiscOS/Sources/Networking/AUN/Internet
+	url = ../../RiscOS/Sources/Networking/AUN/Internet.git
