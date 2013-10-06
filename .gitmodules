@@ -595,3 +595,9 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherY"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherY
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherY.git
+[submodule "RiscOS/Sources/Video/Render/Fonts/ITable"]
+	path = RiscOS/Sources/Video/Render/Fonts/ITable
+	url = ../../RiscOS/Sources/Video/Render/Fonts/ITable.git
+[submodule "RiscOS/Sources/Video/Render/BlendTable"]
+	path = RiscOS/Sources/Video/Render/BlendTable
+	url = ../../RiscOS/Sources/Video/Render/BlendTable.git
