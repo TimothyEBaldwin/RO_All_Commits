@@ -159,9 +159,6 @@
 [submodule "RiscOS/Sources/Printing/Modules/PDriver"]
 	path = RiscOS/Sources/Printing/Modules/PDriver
 	url = ../../RiscOS/Sources/Printing/Modules/PDriver.git
-[submodule "RiscOS/Sources/Programmer/BASICTrans"]
-	path = RiscOS/Sources/Programmer/BASICTrans
-	url = ../../RiscOS/Sources/Programmer/BASICTrans.git
 [submodule "RiscOS/Sources/Programmer/DDEUtils"]
 	path = RiscOS/Sources/Programmer/DDEUtils
 	url = ../../RiscOS/Sources/Programmer/DDEUtils.git
@@ -340,3 +337,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/Internet"]
 	path = RiscOS/Sources/Networking/AUN/Internet
 	url = ../../RiscOS/Sources/Networking/AUN/Internet.git
+[submodule "RiscOS/Sources/Programmer/BASIC"]
+	path = RiscOS/Sources/Programmer/BASIC
+	url = ../../RiscOS/Sources/Programmer/BASIC.git
