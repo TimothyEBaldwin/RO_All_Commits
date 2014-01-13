@@ -228,9 +228,6 @@
 [submodule "RiscOS/Sources/Printing/T1ToFont"]
 	path = RiscOS/Sources/Printing/T1ToFont
 	url = ../../RiscOS/Sources/Printing/T1ToFont.git
-[submodule "RiscOS/Sources/Programmer/BASICTrans"]
-	path = RiscOS/Sources/Programmer/BASICTrans
-	url = ../../RiscOS/Sources/Programmer/BASICTrans.git
 [submodule "RiscOS/Sources/Programmer/DDEUtils"]
 	path = RiscOS/Sources/Programmer/DDEUtils
 	url = ../../RiscOS/Sources/Programmer/DDEUtils.git
