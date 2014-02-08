@@ -453,9 +453,6 @@
 [submodule "RiscOS/Utilities/Autobuild/ABRelease"]
 	path = RiscOS/Utilities/Autobuild/ABRelease
 	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
-[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
-	path = RiscOS/Sources/HWSupport/VFPSupport
-	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
 [submodule "RiscOS/Apps/PlingPerl"]
 	path = RiscOS/Apps/!Perl
 	url = ../../RiscOS/Apps/PlingPerl.git
@@ -516,3 +513,6 @@
 [submodule "RiscOS/Sources/Video/Render/BlendTable"]
 	path = RiscOS/Sources/Video/Render/BlendTable
 	url = ../../RiscOS/Sources/Video/Render/BlendTable.git
+[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
+	path = RiscOS/Sources/HWSupport/VFPSupport
+	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
