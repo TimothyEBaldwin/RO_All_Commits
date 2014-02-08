@@ -328,9 +328,6 @@
 [submodule "RiscOS/Sources/Internat/Inter"]
 	path = RiscOS/Sources/Internat/Inter
 	url = ../../RiscOS/Sources/Internat/Inter.git
-[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
-	path = RiscOS/Sources/HWSupport/VFPSupport
-	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
 [submodule "RiscOS/Sources/Networking/Econet"]
 	path = RiscOS/Sources/Networking/Econet
 	url = ../../RiscOS/Sources/Networking/Econet.git
@@ -340,3 +337,6 @@
 [submodule "RiscOS/Sources/Programmer/BASIC"]
 	path = RiscOS/Sources/Programmer/BASIC
 	url = ../../RiscOS/Sources/Programmer/BASIC.git
+[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
+	path = RiscOS/Sources/HWSupport/VFPSupport
+	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
