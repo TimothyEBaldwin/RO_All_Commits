@@ -601,3 +601,6 @@
 [submodule "RiscOS/Sources/HWSupport/RTC"]
 	path = RiscOS/Sources/HWSupport/RTC
 	url = ../../RiscOS/Sources/HWSupport/RTC.git
+[submodule "RiscOS/Sources/Apps/Diversions/Meteors"]
+	path = RiscOS/Sources/Apps/Diversions/Meteors
+	url = ../../RiscOS/Sources/Apps/Diversions/Meteors.git
