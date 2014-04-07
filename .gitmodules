@@ -459,9 +459,6 @@
 [submodule "RiscOS/Sources/HWSupport/RTC"]
 	path = RiscOS/Sources/HWSupport/RTC
 	url = ../../RiscOS/Sources/HWSupport/RTC.git
-[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
-	path = RiscOS/Sources/HWSupport/VFPSupport
-	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
 [submodule "RiscOS/Sources/Lib/SyncLib"]
 	path = RiscOS/Sources/Lib/SyncLib
 	url = ../../RiscOS/Sources/Lib/SyncLib.git
@@ -534,3 +531,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/HWSupport/VFPSupport"]
+	path = RiscOS/Sources/HWSupport/VFPSupport
+	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
