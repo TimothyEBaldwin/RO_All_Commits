@@ -474,9 +474,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/MManagerBlob"]
 	path = RiscOS/Sources/Networking/AUN/MManagerBlob
 	url = ../../RiscOS/Sources/Networking/AUN/MManagerBlob.git
-[submodule "RiscOS/Sources/Networking/MimeMapBlob"]
-	path = RiscOS/Sources/Networking/MimeMapBlob
-	url = ../../RiscOS/Sources/Networking/MimeMapBlob.git
 [submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS"]
 	path = RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS
 	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS.git
@@ -525,3 +522,6 @@
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
+[submodule "RiscOS/Sources/Networking/MimeMap"]
+	path = RiscOS/Sources/Networking/MimeMap
+	url = ../../RiscOS/Sources/Networking/MimeMap.git
