@@ -604,3 +604,6 @@
 [submodule "RiscOS/Sources/Apps/Diversions/Meteors"]
 	path = RiscOS/Sources/Apps/Diversions/Meteors
 	url = ../../RiscOS/Sources/Apps/Diversions/Meteors.git
+[submodule "RiscOS/Sources/Networking/MimeMap"]
+	path = RiscOS/Sources/Networking/MimeMap
+	url = ../../RiscOS/Sources/Networking/MimeMap.git
