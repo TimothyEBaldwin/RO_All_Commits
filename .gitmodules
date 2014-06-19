@@ -607,3 +607,12 @@
 [submodule "RiscOS/Sources/Networking/MimeMap"]
 	path = RiscOS/Sources/Networking/MimeMap
 	url = ../../RiscOS/Sources/Networking/MimeMap.git
+[submodule "RiscOS/Sources/Apps/Diversions/Hopper"]
+	path = RiscOS/Sources/Apps/Diversions/Hopper
+	url = ../../RiscOS/Sources/Apps/Diversions/Hopper.git
+[submodule "RiscOS/Sources/Video/Render/PsychoEffects"]
+	path = RiscOS/Sources/Video/Render/PsychoEffects
+	url = ../../RiscOS/Sources/Video/Render/PsychoEffects.git
+[submodule "RiscOS/Sources/Audio/QTheMusic"]
+	path = RiscOS/Sources/Audio/QTheMusic
+	url = ../../RiscOS/Sources/Audio/QTheMusic.git
