@@ -531,6 +531,9 @@
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
-[submodule "RiscOS/Sources/Networking/MimeMap"]
-	path = RiscOS/Sources/Networking/MimeMap
-	url = ../../RiscOS/Sources/Networking/MimeMap.git
+[submodule "RiscOS/Sources/Networking/MimeMapBlob"]
+	path = RiscOS/Sources/Networking/MimeMapBlob
+	url = ../../RiscOS/Sources/Networking/MimeMapBlob.git
+[submodule "RiscOS/Sources/Networking/NetTime"]
+	path = RiscOS/Sources/Networking/NetTime
+	url = ../../RiscOS/Sources/Networking/NetTime.git
