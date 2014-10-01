@@ -178,9 +178,6 @@
 	path = RiscOS/Sources/Programmer/HostFS
 	url = ../../RiscOS/Sources/Programmer/HostFS.git
 	branch = HAL
-[submodule "RiscOS/Sources/Programmer/SquashBlob"]
-	path = RiscOS/Sources/Programmer/SquashBlob
-	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
 [submodule "RiscOS/Sources/SystemRes/Configure2/Installer"]
 	path = RiscOS/Sources/SystemRes/Configure2/Installer
 	url = ../../RiscOS/Sources/SystemRes/Configure2/Installer.git
@@ -340,3 +337,6 @@
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
+[submodule "RiscOS/Sources/Programmer/Squash"]
+	path = RiscOS/Sources/Programmer/Squash
+	url = ../../RiscOS/Sources/Programmer/Squash.git
