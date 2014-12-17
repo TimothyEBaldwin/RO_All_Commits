@@ -150,9 +150,6 @@
 	path = RiscOS/Sources/Kernel
 	url = ../../RiscOS/Sources/Kernel.git
 	branch = HAL
-[submodule "RiscOS/Sources/Lib/AcornNC"]
-	path = RiscOS/Sources/Lib/AcornNC
-	url = ../../RiscOS/Sources/Lib/AcornNC.git
 [submodule "RiscOS/Sources/Lib/AsmUtils"]
 	path = RiscOS/Sources/Lib/AsmUtils
 	url = ../../RiscOS/Sources/Lib/AsmUtils.git
@@ -162,18 +159,9 @@
 [submodule "RiscOS/Sources/Lib/DebugLib"]
 	path = RiscOS/Sources/Lib/DebugLib
 	url = ../../RiscOS/Sources/Lib/DebugLib.git
-[submodule "RiscOS/Sources/Lib/HTML"]
-	path = RiscOS/Sources/Lib/HTML
-	url = ../../RiscOS/Sources/Lib/HTML.git
-[submodule "RiscOS/Sources/Lib/MemLib"]
-	path = RiscOS/Sources/Lib/MemLib
-	url = ../../RiscOS/Sources/Lib/MemLib.git
 [submodule "RiscOS/Sources/Lib/ModMalloc"]
 	path = RiscOS/Sources/Lib/ModMalloc
 	url = ../../RiscOS/Sources/Lib/ModMalloc.git
-[submodule "RiscOS/Sources/Lib/ModuleTask"]
-	path = RiscOS/Sources/Lib/ModuleTask
-	url = ../../RiscOS/Sources/Lib/ModuleTask.git
 [submodule "RiscOS/Sources/Lib/PDebug"]
 	path = RiscOS/Sources/Lib/PDebug
 	url = ../../RiscOS/Sources/Lib/PDebug.git
