@@ -340,3 +340,6 @@
 [submodule "RiscOS/Sources/Programmer/Squash"]
 	path = RiscOS/Sources/Programmer/Squash
 	url = ../../RiscOS/Sources/Programmer/Squash.git
+[submodule "RiscOS/Sources/Networking/AUN/AUNMsgs"]
+	path = RiscOS/Sources/Networking/AUN/AUNMsgs
+	url = ../../RiscOS/Sources/Networking/AUN/AUNMsgs.git
