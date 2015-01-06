@@ -343,3 +343,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/AUNMsgs"]
 	path = RiscOS/Sources/Networking/AUN/AUNMsgs
 	url = ../../RiscOS/Sources/Networking/AUN/AUNMsgs.git
+[submodule "RiscOS/Sources/Audio/SharedSnd"]
+	path = RiscOS/Sources/Audio/SharedSnd
+	url = ../../RiscOS/Sources/Audio/SharedSnd.git
