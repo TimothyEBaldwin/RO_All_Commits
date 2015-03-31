@@ -538,9 +538,6 @@
 [submodule "RiscOS/Sources/HWSupport/PCI"]
 	path = RiscOS/Sources/HWSupport/PCI
 	url = ../../RiscOS/Sources/HWSupport/PCI.git
-[submodule "RiscOS/Sources/HWSupport/VCHIQ"]
-	path = RiscOS/Sources/HWSupport/VCHIQ
-	url = ../../RiscOS/Sources/HWSupport/VCHIQ.git
 [submodule "RiscOS/Sources/Lib/PRISMLib"]
 	path = RiscOS/Sources/Lib/PRISMLib
 	url = ../../RiscOS/Sources/Lib/PRISMLib.git
