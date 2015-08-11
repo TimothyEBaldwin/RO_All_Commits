@@ -601,3 +601,6 @@
 [submodule "RiscOS/Sources/Audio/QTheMusic"]
 	path = RiscOS/Sources/Audio/QTheMusic
 	url = ../../RiscOS/Sources/Audio/QTheMusic.git
+[submodule "RiscOS/Sources/Networking/URI"]
+	path = RiscOS/Sources/Networking/URI
+	url = ../../RiscOS/Sources/Networking/URI.git
