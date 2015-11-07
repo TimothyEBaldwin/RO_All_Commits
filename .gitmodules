@@ -604,3 +604,6 @@
 [submodule "RiscOS/Sources/Networking/URI"]
 	path = RiscOS/Sources/Networking/URI
 	url = ../../RiscOS/Sources/Networking/URI.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherCPSW"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherCPSW
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherCPSW.git
