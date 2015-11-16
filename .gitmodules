@@ -525,3 +525,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver"]
+	path = RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver.git
