@@ -528,3 +528,12 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver.git
+[submodule "RiscOS/Sources/FileSys/ADFS/ADFS4"]
+	path = RiscOS/Sources/FileSys/ADFS/ADFS4
+	url = ../../RiscOS/Sources/FileSys/ADFS/ADFS4.git
+[submodule "RiscOS/Sources/HAL/HAL_Titanium"]
+	path = RiscOS/Sources/HAL/HAL_Titanium
+	url = ../../RiscOS/Sources/HAL/HAL_Titanium.git
+[submodule "RiscOS/Sources/HWSupport/ATA/SATADriver"]
+	path = RiscOS/Sources/HWSupport/ATA/SATADriver
+	url = ../../RiscOS/Sources/HWSupport/ATA/SATADriver.git
