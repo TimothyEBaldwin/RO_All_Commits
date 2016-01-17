@@ -278,3 +278,6 @@
 [submodule "RiscOS/Sources/Lib/OSLib"]
 	path = RiscOS/Sources/Lib/OSLib
 	url = ../../RiscOS/Sources/Lib/OSLib.git
+[submodule "RiscOS/Sources/Utilities/Connector"]
+	path = RiscOS/Sources/Utilities/Connector
+	url = ../../RiscOS/Sources/Utilities/Connector.git
