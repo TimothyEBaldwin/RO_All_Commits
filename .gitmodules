@@ -495,9 +495,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
-[submodule "RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver.git
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver.git
@@ -537,3 +534,6 @@
 [submodule "RiscOS/Sources/HWSupport/GPIO"]
 	path = RiscOS/Sources/HWSupport/GPIO
 	url = ../../RiscOS/Sources/HWSupport/GPIO.git
+[submodule "RiscOS/Sources/HWSupport/SPIDriver"]
+	path = RiscOS/Sources/HWSupport/SPIDriver
+	url = ../../RiscOS/Sources/HWSupport/SPIDriver.git
