@@ -355,3 +355,6 @@
 [submodule "RiscOS/Sources/Networking/MimeMap"]
 	path = RiscOS/Sources/Networking/MimeMap
 	url = ../../RiscOS/Sources/Networking/MimeMap.git
+[submodule "RiscOS/Sources/HWSupport/BCMSupport"]
+	path = RiscOS/Sources/HWSupport/BCMSupport
+	url = ../../RiscOS/Sources/HWSupport/BCMSupport.git
