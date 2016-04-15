@@ -344,3 +344,9 @@
 [submodule "RiscOS/Sources/Audio/SharedSnd"]
 	path = RiscOS/Sources/Audio/SharedSnd
 	url = ../../RiscOS/Sources/Audio/SharedSnd.git
+[submodule "RiscOS/Sources/Networking/AUN/Access/Freeway"]
+	path = RiscOS/Sources/Networking/AUN/Access/Freeway
+	url = ../../RiscOS/Sources/Networking/AUN/Access/Freeway.git
+[submodule "RiscOS/Sources/Networking/MimeMap"]
+	path = RiscOS/Sources/Networking/MimeMap
+	url = ../../RiscOS/Sources/Networking/MimeMap.git
