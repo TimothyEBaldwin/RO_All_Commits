@@ -139,9 +139,6 @@
 [submodule "RiscOS/Sources/FileSys/SCSIFS/SCSIFS"]
 	path = RiscOS/Sources/FileSys/SCSIFS/SCSIFS
 	url = ../../RiscOS/Sources/FileSys/SCSIFS/SCSIFS.git
-[submodule "RiscOS/Sources/HAL/HAL_IOMD"]
-	path = RiscOS/Sources/HAL/HAL_IOMD
-	url = ../../RiscOS/Sources/HAL/HAL_IOMD.git
 [submodule "RiscOS/Sources/HWSupport/Buffers"]
 	path = RiscOS/Sources/HWSupport/Buffers
 	url = ../../RiscOS/Sources/HWSupport/Buffers.git
