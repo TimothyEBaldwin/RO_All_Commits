@@ -606,3 +606,6 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherCPSW"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherCPSW
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherCPSW.git
+[submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniNetFiler"]
+	path = RiscOS/Sources/Networking/Omni/Protocols/OmniNetFiler
+	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniNetFiler.git
