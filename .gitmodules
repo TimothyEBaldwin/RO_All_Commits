@@ -348,3 +348,18 @@
 [submodule "RiscOS/Sources/Networking/MimeMap"]
 	path = RiscOS/Sources/Networking/MimeMap
 	url = ../../RiscOS/Sources/Networking/MimeMap.git
+[submodule "RiscOS/Sources/FileSys/NetFS/NetFS"]
+	path = RiscOS/Sources/FileSys/NetFS/NetFS
+	url = ../../RiscOS/Sources/FileSys/NetFS/NetFS.git
+[submodule "RiscOS/Sources/FileSys/NetFS/NetFiler"]
+	path = RiscOS/Sources/FileSys/NetFS/NetFiler
+	url = ../../RiscOS/Sources/FileSys/NetFS/NetFiler.git
+[submodule "RiscOS/Sources/FileSys/NetPrint"]
+	path = RiscOS/Sources/FileSys/NetPrint
+	url = ../../RiscOS/Sources/FileSys/NetPrint.git
+[submodule "RiscOS/Sources/Networking/AUN/Net"]
+	path = RiscOS/Sources/Networking/AUN/Net
+	url = ../../RiscOS/Sources/Networking/AUN/Net.git
+[submodule "RiscOS/Sources/Networking/NetStatus"]
+	path = RiscOS/Sources/Networking/NetStatus
+	url = ../../RiscOS/Sources/Networking/NetStatus.git
