@@ -358,3 +358,6 @@
 [submodule "RiscOS/Sources/HWSupport/BCMSupport"]
 	path = RiscOS/Sources/HWSupport/BCMSupport
 	url = ../../RiscOS/Sources/HWSupport/BCMSupport.git
+[submodule "RiscOS/Sources/Toolbox/tboxlib"]
+	path = RiscOS/Sources/Toolbox/tboxlib
+	url = ../../RiscOS/Sources/Toolbox/tboxlib.git
