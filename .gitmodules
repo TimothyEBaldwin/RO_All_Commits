@@ -554,3 +554,6 @@
 [submodule "RiscOS/Sources/Programmer/ZeroPain"]
 	path = RiscOS/Sources/Programmer/ZeroPain
 	url = ../../RiscOS/Sources/Programmer/ZeroPain.git
+[submodule "RiscOS/Sources/Video/HWSupport/IMXVideo"]
+	path = RiscOS/Sources/Video/HWSupport/IMXVideo
+	url = ../../RiscOS/Sources/Video/HWSupport/IMXVideo.git
