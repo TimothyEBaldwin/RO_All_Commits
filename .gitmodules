@@ -542,3 +542,6 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherTH"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherTH
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherTH.git
+[submodule "RiscOS/Sources/HAL/HAL_iMx6"]
+	path = RiscOS/Sources/HAL/HAL_iMx6
+	url = ../../RiscOS/Sources/HAL/HAL_iMx6.git
