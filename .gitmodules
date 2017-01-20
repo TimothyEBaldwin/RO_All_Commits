@@ -545,3 +545,12 @@
 [submodule "RiscOS/Sources/HAL/HAL_iMx6"]
 	path = RiscOS/Sources/HAL/HAL_iMx6
 	url = ../../RiscOS/Sources/HAL/HAL_iMx6.git
+[submodule "RiscOS/Sources/FileSys/SCSIFS/PartMan"]
+	path = RiscOS/Sources/FileSys/SCSIFS/PartMan
+	url = ../../RiscOS/Sources/FileSys/SCSIFS/PartMan.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherUSB"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherUSB
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherUSB.git
+[submodule "RiscOS/Sources/Programmer/ZeroPain"]
+	path = RiscOS/Sources/Programmer/ZeroPain
+	url = ../../RiscOS/Sources/Programmer/ZeroPain.git
