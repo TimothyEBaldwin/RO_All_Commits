@@ -284,3 +284,6 @@
 [submodule "RiscOS/Sources/Programmer/Squash"]
 	path = RiscOS/Sources/Programmer/Squash
 	url = ../../RiscOS/Sources/Programmer/Squash.git
+[submodule "RiscOS/Sources/Video/UserI/Picker"]
+	path = RiscOS/Sources/Video/UserI/Picker
+	url = ../../RiscOS/Sources/Video/UserI/Picker.git
