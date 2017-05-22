@@ -609,3 +609,6 @@
 [submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniNetFiler"]
 	path = RiscOS/Sources/Networking/Omni/Protocols/OmniNetFiler
 	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniNetFiler.git
+[submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniAccess"]
+	path = RiscOS/Sources/Networking/Omni/Protocols/OmniAccess
+	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniAccess.git
