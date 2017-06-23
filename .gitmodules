@@ -612,3 +612,6 @@
 [submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniAccess"]
 	path = RiscOS/Sources/Networking/Omni/Protocols/OmniAccess
 	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniAccess.git
+[submodule "RiscOS/Sources/Networking/AUN/RouteD"]
+	path = RiscOS/Sources/Networking/AUN/RouteD
+	url = ../../RiscOS/Sources/Networking/AUN/RouteD.git
