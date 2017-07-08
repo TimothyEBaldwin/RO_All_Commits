@@ -503,9 +503,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver.git
-[submodule "RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver"]
-	path = RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver.git
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
