@@ -389,9 +389,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
-[submodule "RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver"]
-	path = RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver.git
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
