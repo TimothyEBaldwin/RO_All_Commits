@@ -389,9 +389,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
@@ -542,3 +539,6 @@
 [submodule "RiscOS/Sources/HWSupport/GPIO"]
 	path = RiscOS/Sources/HWSupport/GPIO
 	url = ../../RiscOS/Sources/HWSupport/GPIO.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
