@@ -464,9 +464,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/MUSBDriver.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Sources/Lib/TCPIPLibs"]
 	path = RiscOS/Sources/Lib/TCPIPLibs
 	url = ../../RiscOS/Sources/Lib/TCPIPLibs.git
@@ -536,3 +533,6 @@
 [submodule "RiscOS/Sources/HWSupport/GPIO"]
 	path = RiscOS/Sources/HWSupport/GPIO
 	url = ../../RiscOS/Sources/HWSupport/GPIO.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
