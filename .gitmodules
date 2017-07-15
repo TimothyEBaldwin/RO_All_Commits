@@ -269,9 +269,6 @@
 [submodule "RiscOS/Sources/Printing/Modules/RemPrnSpt"]
 	path = RiscOS/Sources/Printing/Modules/RemPrnSpt
 	url = ../../RiscOS/Sources/Printing/Modules/RemPrnSpt.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Apps/PlingGCC"]
 	path = RiscOS/Apps/!GCC
 	url = ../../RiscOS/Apps/PlingGCC.git
@@ -287,3 +284,6 @@
 [submodule "RiscOS/Sources/Video/UserI/Picker"]
 	path = RiscOS/Sources/Video/UserI/Picker
 	url = ../../RiscOS/Sources/Video/UserI/Picker.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
