@@ -431,9 +431,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/OHCIDriver.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Sources/Lib/TCPIPLibs"]
 	path = RiscOS/Sources/Lib/TCPIPLibs
 	url = ../../RiscOS/Sources/Lib/TCPIPLibs.git
@@ -521,3 +518,6 @@
 [submodule "RiscOS/Sources/HWSupport/ATA/SATADriver"]
 	path = RiscOS/Sources/HWSupport/ATA/SATADriver
 	url = ../../RiscOS/Sources/HWSupport/ATA/SATADriver.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
