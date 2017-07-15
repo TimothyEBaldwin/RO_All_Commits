@@ -494,9 +494,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Sources/Lib/TCPIPLibs"]
 	path = RiscOS/Sources/Lib/TCPIPLibs
 	url = ../../RiscOS/Sources/Lib/TCPIPLibs.git
@@ -554,3 +551,6 @@
 [submodule "RiscOS/Sources/Video/HWSupport/IMXVideo"]
 	path = RiscOS/Sources/Video/HWSupport/IMXVideo
 	url = ../../RiscOS/Sources/Video/HWSupport/IMXVideo.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
