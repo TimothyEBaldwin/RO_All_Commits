@@ -399,9 +399,6 @@
 [submodule "RiscOS/Sources/Apps/ChangeFSI"]
 	path = RiscOS/Sources/Apps/ChangeFSI
 	url = ../../RiscOS/Sources/Apps/ChangeFSI.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Sources/Lib/TCPIPLibs"]
 	path = RiscOS/Sources/Lib/TCPIPLibs
 	url = ../../RiscOS/Sources/Lib/TCPIPLibs.git
@@ -615,3 +612,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/RouteD"]
 	path = RiscOS/Sources/Networking/AUN/RouteD
 	url = ../../RiscOS/Sources/Networking/AUN/RouteD.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
