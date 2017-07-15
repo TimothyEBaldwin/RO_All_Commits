@@ -491,9 +491,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
-[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
-	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
 	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
@@ -530,3 +527,6 @@
 [submodule "RiscOS/Sources/HWSupport/ATA/SATADriver"]
 	path = RiscOS/Sources/HWSupport/ATA/SATADriver
 	url = ../../RiscOS/Sources/HWSupport/ATA/SATADriver.git
+[submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
+	path = RiscOS/Sources/HWSupport/USB/USBDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
