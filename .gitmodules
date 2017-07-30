@@ -542,3 +542,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
+[submodule "RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver"]
+	path = RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver
+	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver.git
