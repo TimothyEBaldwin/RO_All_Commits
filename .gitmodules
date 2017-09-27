@@ -615,3 +615,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
+[submodule "RiscOS/Sources/Networking/AUN/Apps/AccessPlus"]
+	path = RiscOS/Sources/Networking/AUN/Apps/AccessPlus
+	url = ../../RiscOS/Sources/Networking/AUN/Apps/AccessPlus.git
