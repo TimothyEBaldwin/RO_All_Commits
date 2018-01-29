@@ -618,3 +618,9 @@
 [submodule "RiscOS/Sources/Networking/AUN/Apps/AccessPlus"]
 	path = RiscOS/Sources/Networking/AUN/Apps/AccessPlus
 	url = ../../RiscOS/Sources/Networking/AUN/Apps/AccessPlus.git
+[submodule "RiscOS/Sources/Networking/Omni/Protocols/OmniNFS"]
+	path = RiscOS/Sources/Networking/Omni/Protocols/OmniNFS
+	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniNFS.git
+[submodule "RiscOS/Sources/Networking/NFS"]
+	path = RiscOS/Sources/Networking/NFS
+	url = ../../RiscOS/Sources/Networking/NFS.git
