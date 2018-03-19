@@ -624,3 +624,6 @@
 [submodule "RiscOS/Sources/Networking/NFS"]
 	path = RiscOS/Sources/Networking/NFS
 	url = ../../RiscOS/Sources/Networking/NFS.git
+[submodule "RiscOS/Sources/SystemRes/UserGuide"]
+	path = RiscOS/Sources/SystemRes/UserGuide
+	url = ../../RiscOS/Sources/SystemRes/UserGuide.git
