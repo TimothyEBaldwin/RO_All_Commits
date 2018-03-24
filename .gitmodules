@@ -128,9 +128,6 @@
 [submodule "RiscOS/Sources/HWSupport/PortMan"]
 	path = RiscOS/Sources/HWSupport/PortMan
 	url = ../../RiscOS/Sources/HWSupport/PortMan.git
-[submodule "RiscOS/Sources/HWSupport/SmartCard/SCInter"]
-	path = RiscOS/Sources/HWSupport/SmartCard/SCInter
-	url = ../../RiscOS/Sources/HWSupport/SmartCard/SCInter.git
 [submodule "RiscOS/Sources/HWSupport/Sound/Sound0"]
 	path = RiscOS/Sources/HWSupport/Sound/Sound0
 	url = ../../RiscOS/Sources/HWSupport/Sound/Sound0.git
