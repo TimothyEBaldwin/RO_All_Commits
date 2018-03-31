@@ -533,6 +533,7 @@
 [submodule "RiscOS/Sources/HWSupport/GPIO"]
 	path = RiscOS/Sources/HWSupport/GPIO
 	url = ../../RiscOS/Sources/HWSupport/GPIO.git
+	branch = HAL
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
