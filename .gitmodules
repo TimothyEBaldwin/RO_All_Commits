@@ -624,3 +624,9 @@
 [submodule "RiscOS/Sources/SystemRes/UserGuide"]
 	path = RiscOS/Sources/SystemRes/UserGuide
 	url = ../../RiscOS/Sources/SystemRes/UserGuide.git
+[submodule "RiscOS/Sources/Networking/Fetchers/HTTP"]
+	path = RiscOS/Sources/Networking/Fetchers/HTTP
+	url = ../../RiscOS/Sources/Networking/Fetchers/HTTP.git
+[submodule "RiscOS/Sources/Networking/Fetchers/URL"]
+	path = RiscOS/Sources/Networking/Fetchers/URL
+	url = ../../RiscOS/Sources/Networking/Fetchers/URL.git
