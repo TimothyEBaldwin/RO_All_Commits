@@ -630,3 +630,6 @@
 [submodule "RiscOS/Sources/Networking/Fetchers/URL"]
 	path = RiscOS/Sources/Networking/Fetchers/URL
 	url = ../../RiscOS/Sources/Networking/Fetchers/URL.git
+[submodule "RiscOS/Sources/Video/Render/VideoOverlay"]
+	path = RiscOS/Sources/Video/Render/VideoOverlay
+	url = ../../RiscOS/Sources/Video/Render/VideoOverlay.git
