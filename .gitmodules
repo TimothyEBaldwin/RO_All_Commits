@@ -539,3 +539,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver.git
+[submodule "RiscOS/Sources/HAL/HAL_OMAP5"]
+	path = RiscOS/Sources/HAL/HAL_OMAP5
+	url = ../../RiscOS/Sources/HAL/HAL_OMAP5.git
