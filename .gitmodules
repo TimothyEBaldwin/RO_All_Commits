@@ -633,3 +633,6 @@
 [submodule "RiscOS/Sources/Video/Render/VideoOverlay"]
 	path = RiscOS/Sources/Video/Render/VideoOverlay
 	url = ../../RiscOS/Sources/Video/Render/VideoOverlay.git
+[submodule "RiscOS/Sources/Lib/mbedTLS"]
+	path = RiscOS/Sources/Lib/mbedTLS
+	url = ../../RiscOS/Sources/Lib/mbedTLS.git
