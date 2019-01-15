@@ -458,9 +458,6 @@
 [submodule "RiscOS/Sources/Utilities/SDCreate"]
 	path = RiscOS/Sources/Utilities/SDCreate
 	url = ../../RiscOS/Sources/Utilities/SDCreate.git
-[submodule "RiscOS/Sources/Video/HWSupport/OMAPVideo"]
-	path = RiscOS/Sources/Video/HWSupport/OMAPVideo
-	url = ../../RiscOS/Sources/Video/HWSupport/OMAPVideo.git
 [submodule "RiscOS/Sources/Video/Render/BlendTable"]
 	path = RiscOS/Sources/Video/Render/BlendTable
 	url = ../../RiscOS/Sources/Video/Render/BlendTable.git
@@ -542,3 +539,6 @@
 [submodule "RiscOS/Sources/HAL/HAL_OMAP5"]
 	path = RiscOS/Sources/HAL/HAL_OMAP5
 	url = ../../RiscOS/Sources/HAL/HAL_OMAP5.git
+[submodule "RiscOS/Sources/Video/HWSupport/OMAPHDMIBlob"]
+	path = RiscOS/Sources/Video/HWSupport/OMAPHDMIBlob
+	url = ../../RiscOS/Sources/Video/HWSupport/OMAPHDMIBlob.git
