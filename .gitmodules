@@ -1462,3 +1462,6 @@
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
 	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+[submodule "RiscOS/Sources/Networking/AUN/Apps/GateWay"]
+	path = RiscOS/Sources/Networking/AUN/Apps/GateWay
+	url = ../../RiscOS/Sources/Networking/AUN/Apps/GateWay.git
