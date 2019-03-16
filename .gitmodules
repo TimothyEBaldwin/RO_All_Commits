@@ -279,3 +279,6 @@
 [submodule "RiscOS/Sources/Utilities/Connector"]
 	path = RiscOS/Sources/Utilities/Connector
 	url = ../../RiscOS/Sources/Utilities/Connector.git
+[submodule "RiscOS/Sources/Networking/AUN/Apps/GateWay"]
+	path = RiscOS/Sources/Networking/AUN/Apps/GateWay
+	url = ../../RiscOS/Sources/Networking/AUN/Apps/GateWay.git
