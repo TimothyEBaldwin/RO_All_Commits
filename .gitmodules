@@ -1465,3 +1465,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/Apps/GateWay"]
 	path = RiscOS/Sources/Networking/AUN/Apps/GateWay
 	url = ../../RiscOS/Sources/Networking/AUN/Apps/GateWay.git
+[submodule "RiscOS/Sources/Networking/Fetchers/AcornSSL"]
+	path = RiscOS/Sources/Networking/Fetchers/AcornSSL
+	url = ../../RiscOS/Sources/Networking/Fetchers/AcornSSL.git
