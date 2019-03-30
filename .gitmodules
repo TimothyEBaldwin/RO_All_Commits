@@ -636,3 +636,6 @@
 [submodule "RiscOS/Sources/Lib/mbedTLS"]
 	path = RiscOS/Sources/Lib/mbedTLS
 	url = ../../RiscOS/Sources/Lib/mbedTLS.git
+[submodule "RiscOS/Sources/Networking/Fetchers/AcornSSL"]
+	path = RiscOS/Sources/Networking/Fetchers/AcornSSL
+	url = ../../RiscOS/Sources/Networking/Fetchers/AcornSSL.git
