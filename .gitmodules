@@ -369,3 +369,6 @@
 [submodule "RiscOS/Sources/Networking/NetUtils"]
 	path = RiscOS/Sources/Networking/NetUtils
 	url = ../../RiscOS/Sources/Networking/NetUtils.git
+[submodule "RiscOS/Sources/Utilities/Patches/FilerUtils"]
+	path = RiscOS/Sources/Utilities/Patches/FilerUtils
+	url = ../../RiscOS/Sources/Utilities/Patches/FilerUtils.git
