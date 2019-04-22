@@ -372,3 +372,9 @@
 [submodule "RiscOS/Sources/Utilities/Patches/FilerUtils"]
 	path = RiscOS/Sources/Utilities/Patches/FilerUtils
 	url = ../../RiscOS/Sources/Utilities/Patches/FilerUtils.git
+[submodule "RiscOS/Sources/Networking/AUN/Access/ShareFSBlob"]
+	path = RiscOS/Sources/Networking/AUN/Access/ShareFSBlob
+	url = ../../RiscOS/Sources/Networking/AUN/Access/ShareFSBlob.git
+[submodule "RiscOS/Sources/Networking/ResolverBlob"]
+	path = RiscOS/Sources/Networking/ResolverBlob
+	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
