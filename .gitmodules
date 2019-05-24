@@ -1468,3 +1468,9 @@
 [submodule "RiscOS/Sources/Networking/Fetchers/AcornSSL"]
 	path = RiscOS/Sources/Networking/Fetchers/AcornSSL
 	url = ../../RiscOS/Sources/Networking/Fetchers/AcornSSL.git
+[submodule "RiscOS/Sources/Networking/NetUtils"]
+	path = RiscOS/Sources/Networking/NetUtils
+	url = ../../RiscOS/Sources/Networking/NetUtils.git
+[submodule "RiscOS/Sources/Utilities/Patches/FilerUtils"]
+	path = RiscOS/Sources/Utilities/Patches/FilerUtils
+	url = ../../RiscOS/Sources/Utilities/Patches/FilerUtils.git
