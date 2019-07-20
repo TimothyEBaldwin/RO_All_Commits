@@ -542,3 +542,7 @@
 [submodule "RiscOS/Sources/Video/HWSupport/OMAPHDMIBlob"]
 	path = RiscOS/Sources/Video/HWSupport/OMAPHDMIBlob
 	url = ../../RiscOS/Sources/Video/HWSupport/OMAPHDMIBlob.git
+[submodule "RiscOS/Sources/HWSupport/GPIO"]
+	path = RiscOS/Sources/HWSupport/GPIO
+	url = ../../RiscOS/Sources/HWSupport/GPIO.git
+	branch = HAL
