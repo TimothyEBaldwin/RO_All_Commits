@@ -639,3 +639,6 @@
 [submodule "RiscOS/Sources/Networking/Fetchers/AcornSSL"]
 	path = RiscOS/Sources/Networking/Fetchers/AcornSSL
 	url = ../../RiscOS/Sources/Networking/Fetchers/AcornSSL.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherGENET"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherGENET
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherGENET.git
