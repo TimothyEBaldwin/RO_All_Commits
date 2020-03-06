@@ -1474,3 +1474,6 @@
 [submodule "RiscOS/Sources/Utilities/Patches/FilerUtils"]
 	path = RiscOS/Sources/Utilities/Patches/FilerUtils
 	url = ../../RiscOS/Sources/Utilities/Patches/FilerUtils.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherGENET"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherGENET
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherGENET.git
