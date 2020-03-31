@@ -1477,3 +1477,9 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherGENET"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherGENET
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherGENET.git
+[submodule "RiscOS/Sources/Networking/Modem/Dialler"]
+	path = RiscOS/Sources/Networking/Modem/Dialler
+	url = ../../RiscOS/Sources/Networking/Modem/Dialler.git
+[submodule "RiscOS/Sources/Networking/Modem/PPP"]
+	path = RiscOS/Sources/Networking/Modem/PPP
+	url = ../../RiscOS/Sources/Networking/Modem/PPP.git
