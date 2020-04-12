@@ -546,3 +546,6 @@
 	path = RiscOS/Sources/HWSupport/GPIO
 	url = ../../RiscOS/Sources/HWSupport/GPIO.git
 	branch = HAL
+[submodule "RiscOS/Sources/Desktop/WindowScroll"]
+	path = RiscOS/Sources/Desktop/WindowScroll
+	url = ../../RiscOS/Sources/Desktop/WindowScroll.git
