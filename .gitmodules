@@ -546,3 +546,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/EHCIDriver.git
+[submodule "RiscOS/Sources/Desktop/WindowScroll"]
+	path = RiscOS/Sources/Desktop/WindowScroll
+	url = ../../RiscOS/Sources/Desktop/WindowScroll.git
