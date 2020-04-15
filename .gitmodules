@@ -285,3 +285,6 @@
 [submodule "RiscOS/Sources/Apps/FormEd"]
 	path = RiscOS/Sources/Apps/FormEd
 	url = ../../RiscOS/Sources/Apps/FormEd.git
+[submodule "RiscOS/Sources/Networking/AUN/Apps/MailMan"]
+	path = RiscOS/Sources/Networking/AUN/Apps/MailMan
+	url = ../../RiscOS/Sources/Networking/AUN/Apps/MailMan.git
