@@ -1483,3 +1483,9 @@
 [submodule "RiscOS/Sources/Networking/Modem/PPP"]
 	path = RiscOS/Sources/Networking/Modem/PPP
 	url = ../../RiscOS/Sources/Networking/Modem/PPP.git
+[submodule "RiscOS/Sources/Desktop/WindowScroll"]
+	path = RiscOS/Sources/Desktop/WindowScroll
+	url = ../../RiscOS/Sources/Desktop/WindowScroll.git
+[submodule "RiscOS/Sources/Networking/AUN/Apps/MailMan"]
+	path = RiscOS/Sources/Networking/AUN/Apps/MailMan
+	url = ../../RiscOS/Sources/Networking/AUN/Apps/MailMan.git
