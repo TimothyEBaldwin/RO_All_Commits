@@ -288,3 +288,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/Apps/MailMan"]
 	path = RiscOS/Sources/Networking/AUN/Apps/MailMan
 	url = ../../RiscOS/Sources/Networking/AUN/Apps/MailMan.git
+[submodule "RiscOS/Sources/Programmer/ZeroPain"]
+	path = RiscOS/Sources/Programmer/ZeroPain
+	url = ../../RiscOS/Sources/Programmer/ZeroPain.git
