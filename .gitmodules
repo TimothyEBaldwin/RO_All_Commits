@@ -378,3 +378,6 @@
 [submodule "RiscOS/Sources/Networking/ResolverBlob"]
 	path = RiscOS/Sources/Networking/ResolverBlob
 	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
+[submodule "RiscOS/Sources/Programmer/RMVersion"]
+	path = RiscOS/Sources/Programmer/RMVersion
+	url = ../../RiscOS/Sources/Programmer/RMVersion.git
