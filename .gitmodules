@@ -1489,3 +1489,6 @@
 [submodule "RiscOS/Sources/Networking/AUN/Apps/MailMan"]
 	path = RiscOS/Sources/Networking/AUN/Apps/MailMan
 	url = ../../RiscOS/Sources/Networking/AUN/Apps/MailMan.git
+[submodule "RiscOS/Tools/Sources/toffb"]
+	path = RiscOS/Tools/Sources/toffb
+	url = ../../RiscOS/Tools/Sources/toffb.git
