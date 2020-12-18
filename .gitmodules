@@ -648,3 +648,9 @@
 [submodule "RiscOS/Sources/Networking/Modem/PPP"]
 	path = RiscOS/Sources/Networking/Modem/PPP
 	url = ../../RiscOS/Sources/Networking/Modem/PPP.git
+[submodule "RiscOS/Sources/Video/Render/CompressPNG"]
+	path = RiscOS/Sources/Video/Render/CompressPNG
+	url = ../../RiscOS/Sources/Video/Render/CompressPNG.git
+[submodule "RiscOS/Sources/Lib/ImageLib"]
+	path = RiscOS/Sources/Lib/ImageLib
+	url = ../../RiscOS/Sources/Lib/ImageLib
