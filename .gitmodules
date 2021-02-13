@@ -291,3 +291,6 @@
 [submodule "RiscOS/Sources/Programmer/ZeroPain"]
 	path = RiscOS/Sources/Programmer/ZeroPain
 	url = ../../RiscOS/Sources/Programmer/ZeroPain.git
+[submodule "RiscOS/Sources/Networking/NetMonitor"]
+	path = RiscOS/Sources/Networking/NetMonitor
+	url = ../../RiscOS/Sources/Networking/NetMonitor
