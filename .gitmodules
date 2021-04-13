@@ -294,3 +294,12 @@
 [submodule "RiscOS/Sources/Networking/NetMonitor"]
 	path = RiscOS/Sources/Networking/NetMonitor
 	url = ../../RiscOS/Sources/Networking/NetMonitor
+[submodule "RiscOS/Sources/Apps/Player"]
+	path = RiscOS/Sources/Apps/Player
+	url = ../../RiscOS/Sources/Apps/Player.git
+[submodule "RiscOS/Sources/Audio/SamplePlayer"]
+	path = RiscOS/Sources/Audio/SamplePlayer
+	url = ../../RiscOS/Sources/Audio/SamplePlayer.git
+[submodule "RiscOS/Sources/Audio/MIDIPlay"]
+	path = RiscOS/Sources/Audio/MIDIPlay
+	url = ../../RiscOS/Sources/Audio/MIDIPlay.git
