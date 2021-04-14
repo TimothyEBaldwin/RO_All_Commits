@@ -1504,3 +1504,6 @@
 [submodule "RiscOS/Sources/Audio/MIDIPlay"]
 	path = RiscOS/Sources/Audio/MIDIPlay
 	url = ../../RiscOS/Sources/Audio/MIDIPlay.git
+[submodule "RiscOS/Sources/Utilities/CreateSEC"]
+	path = RiscOS/Sources/Utilities/CreateSEC
+	url = ../../RiscOS/Sources/Utilities/CreateSEC.git
